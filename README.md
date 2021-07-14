@@ -27,6 +27,8 @@ Currently Learning
 
 ### Programming Languages I know
 
+<!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> -->
+
 1. Java (strong)
 2. Javascript
 4. Python
@@ -44,5 +46,9 @@ Currently Learning
 2. Github
 3. Git
 4. Firebase (google databases)
+
+<!-- --- -->
+
+<!-- <img align="left" alt="petermatts' Github Stats" src="https://github-readme-stats.vercel.app/api?username=petermatts&shouw_icons=true&hide_border=true"> -->
 
 ### More Information Coming Soon
