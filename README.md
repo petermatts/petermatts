@@ -35,8 +35,6 @@ public static String username() {
 ```
 *example code for this process was based in Java*</details>
 
-<br />
-
 <!-- --- -->
 
 ## About me
@@ -105,7 +103,7 @@ UMASS Amherst Class of 2024
 
 ## Github Data
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=petermatts&layout=compact&langs_count=10)](https://github.com/petermatts)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=petermatts&layout=compact&langs_count=10&hide_border=true)](https://github.com/petermatts)
 
 <img align="left" alt="petermatts' Github Stats" src="https://github-readme-stats.vercel.app/api?username=petermatts&show_icons=true&hide_border=true&hide_rank=true">
 
