@@ -1,10 +1,49 @@
 # I’m @petermatts
 
-My name is Matthew Peters
+My real name is Matthew Peters. 
+
+I decided to make my username petermatts because the names Matt (another name I go by) and Peter exist in my first and last names respectively. My last name has an 's' at the end, so simply I decided to swap my first and last names leaving the 's' in its place to get peter + matt + s = petermatts. 
+
+<br/>
+
+<details><summary markdown="span"><u>Click here to show process in code form</u></summary>
+
+```Java
+public static String username() {
+    String myName = "Matthew Peters"; //my name
+    myName = myName.toLowerCase(); //make lowercase
+
+    //split into an array (firstname at index 0, second name at index 1)
+    String[] names = myName.split(" "); 
+
+    //create var for first name, using substring to abreviate to an alternative form
+    String firstname_short = names[0].substring(0, 4); //matt
+
+    String lastname = names[1]; //create var for last name (peters)
+    String s = "";
+
+    //if lastname ends in "s": s="s" and trim off last 's' from lastname
+    if(lastname.endsWith("s")) {
+        s = "s";
+        lastname = lastname.substring(0, lastname.length()-1); //peter
+    }
+
+    // my_github_username = "peter" + "matt" + "s"
+    String my_github_username = lastname + firstname_short + s;
+    return my_github_username; //petermatts
+}
+```
+*example code for this process was based in Java*</details>
+
+<br />
+
+<!-- --- -->
 
 ## About me
 
-### Education
+### **Education**
+
+Nashua (New Hampshire) High School North class of 2020
 
 UMASS Amherst Class of 2024
 
@@ -19,16 +58,17 @@ UMASS Amherst Class of 2024
 | Physics 1 & 2                  | Programming Methodology                     |
 |                                | Reasoning Under Uncertainty                 |
 |                                | Computer SystemsPrinciples                  |
-  
-Nashua (New Hampshire) High School North class of 2020
 
 <br />
 
-Currently Learning
-- Summer 2021 cryptography and crytocurrencies
-- C++
+### **Currently Learning**
+- Summer 2021
+  - cryptography and crytocurrencies
+  - C++
 
-### Languages and Tools
+<br />
+
+### **Languages and Tools**
 
 <br />
 
@@ -51,7 +91,7 @@ Currently Learning
 <!-- 1. CSS
 1. Solodity -->
 
----
+<!-- --- -->
 
 ## More Information Coming Soon
 
@@ -61,16 +101,14 @@ Currently Learning
 - Fun Facts About Me?
 <!-- - Contact Information? -->
 
-<hr />
+<!-- <hr /> -->
 
-<!-- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=petermatts&layout=compact&langs_count=10)](https://github.com/petermatts) -->
+## Github Data
 
-<img align="left" alt="petermatts' Github Stats" src="https://github-readme-stats.vercel.app/api?username=petermatts&show_icons=true&hide_border=true">
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=petermatts&layout=compact&langs_count=10)](https://github.com/petermatts)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=petermatts&layout=compact&langs_count=10&hide_border=true)](https://github.com/petermatts)
+<img align="left" alt="petermatts' Github Stats" src="https://github-readme-stats.vercel.app/api?username=petermatts&show_icons=true&hide_border=true&hide_rank=true">
+
+<!-- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=petermatts&layout=compact&langs_count=10&hide_border=true)](https://github.com/petermatts) -->
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=petermatts&repo=nfl-season-predictor)](https://github.com/petermatts/nfl-season-predictor) -->
-
-
-
-
