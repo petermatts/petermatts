@@ -2,7 +2,7 @@
 
 My real name is Matthew Peters. 
 
-I decided to make my username petermatts because the names Matt (another name I go by) and Peter exist in my first and last names respectively. My last name has an 's' at the end, so simply I decided to swap my first and last names leaving the 's' in its place to get peter + matt + s = petermatts. 
+I decided to make my username petermatts because the names Matt and Peter exist in my first and last names respectively. My last name has an 's' at the end, so simply I decided to swap my first and last names leaving the 's' in its place to get peter + matt + s = petermatts, a unique username. 
 
 <br/>
 
@@ -35,7 +35,7 @@ public static String username() {
 ```
 *example code for this process was based in Java*</details>
 
-<br />
+<!-- <br /> -->
 
 <!-- --- -->
 
@@ -62,11 +62,8 @@ UMASS Amherst Class of 2024
 <br />
 
 ### **Currently Learning**
-- Summer 2021
-  - cryptography and crytocurrencies
-  - C++
-
-<br />
+- cryptography and crytocurrencies
+- C++
 
 ### **Languages and Tools**
 
