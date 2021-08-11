@@ -44,9 +44,10 @@ public static String username() {
 ### **Education**
 
 Nashua (New Hampshire) High School North class of 2020
+- Rank 12/425
+- GPA: 4.84/5.40
 
 UMASS Amherst Class of 2024
-
 - Double Major Computer Science (primary) and Mathematics (secondary)
 - GPA: 3.966 / 4.000
 
@@ -59,7 +60,6 @@ UMASS Amherst Class of 2024
 | General Physics 1 & 2            | Reasoning Under Uncertainty                  |
 |                                  | Computer Systems Principles                  |
 
-<br />
 
 ## **Recent/Current Projects**
 
