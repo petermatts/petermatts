@@ -2,9 +2,9 @@
 
 My real name is Matthew Peters. 
 
-GitHub required I make a unique username, and after a little bit of thinking I came up with the solution.
+GitHub required I make a unique username for my account, and after a little bit of thinking I came up with my solution.
 
-My last name ends in an 's', and without that 's' my name is made of 2 common first namers. So I decided to swap my first (abbreviated) and last names leaving the 's' in its place to get peter + matt + s = petermatts, a unique username. 
+My last name ends in an 's', and without that 's' my name is made of 2 common first names (Matt and Peter). I decided to swap my first (abbreviated) name and last name leaving the 's' in its place to get peter + matt + s = petermatts, a unique username. 
 
 <br/>
 
@@ -15,7 +15,7 @@ public static String username() {
     String myName = "Matthew Peters"; //my name
     myName = myName.toLowerCase(); //make lowercase
 
-    //split into an array (firstname at index 0, second name at index 1)
+    //split into an array (first name at index 0, second name at index 1)
     String[] names = myName.split(" "); 
 
     //create var for first name, using substring to abreviate to an alternative form
@@ -50,20 +50,20 @@ UMASS Amherst Class of 2024
 - Double Major Computer Science (primary) and Mathematics (secondary)
 - GPA: 3.966 / 4.000
 
-| Important Courses Taken        | Important Upcoming Courses(<1 year away) |
-| ------------------------------ | ------------------------------------------- |
-| Using Data Structures          | Ordinary Differential Equations             |
-| Data Structures and Algorithms | Statistics                                  |
-| Calculus Multivatiable         | Intro to Computation                        |
-| Linear Algebra                 | Programming Methodology                     |
-| General Physics 1 & 2          | Reasoning Under Uncertainty                 |
-|                                | Computer Systems Principles                 |
+| Important Courses Taken          | Important Upcoming Courses (<1 year away)    |
+| -------------------------------- | -------------------------------------------- |
+| Using Data Structures            | Ordinary Differential Equations              |
+| Programming with Data Structures | Statistics                                   |
+| Calculus Multivatiable           | Intro to Computation                         |
+| Linear Algebra                   | Programming Methodology                      |
+| General Physics 1 & 2            | Reasoning Under Uncertainty                  |
+|                                  | Computer Systems Principles                  |
 
 <br />
 
-### **Recent/Current Projects**
+## **Recent/Current Projects**
 
-<u>[NFL Season Predictor](https://nfl-season-predictor.web.app/)</u>
+### [NFL Season Predictor](https://nfl-season-predictor.web.app/)
 
 To view the webapp click the title above.
 
@@ -71,7 +71,7 @@ This free time webapp project built with React, Firebase, Javascript, HTML and C
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=petermatts&repo=nfl-season-predictor)](https://github.com/petermatts/nfl-season-predictor)
 
-<u>[Crypto Research](https://docs.google.com/presentation/d/1A-kybBkG2lw1iO6qyywTAImklQ_yI9XctO-q7yy05p0/edit?usp=sharing)</u>
+### [Crypto Research](https://docs.google.com/presentation/d/1A-kybBkG2lw1iO6qyywTAImklQ_yI9XctO-q7yy05p0/edit?usp=sharing)
 
 Summer 2021 personal research project to expand my knowledge in computer science topics such as: cryptocurrencies, blockchains, cryptographic hashing, bitwise operations, and more. 
 
@@ -81,12 +81,12 @@ In my learning I attempted implementing the beginings of code that would compris
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=petermatts&repo=Crypto-Research)](https://github.com/petermatts/Crypto-Research)
 
-### **Currently Learning**
+## **Currently Learning**
 - Cryptography/Cryptographic Hashing Algorithms 
 - Crytocurrencies
 - C++
 
-### **Languages and Tools**
+## **Languages and Tools**
 
 <!-- <br /> -->
 
@@ -119,7 +119,7 @@ In my learning I attempted implementing the beginings of code that would compris
 
 <!-- <hr /> -->
 
-## Github Data
+## GitHub Data
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=petermatts&layout=compact&langs_count=10&hide_border=true)](https://github.com/petermatts)
 
