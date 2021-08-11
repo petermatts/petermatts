@@ -2,7 +2,9 @@
 
 My real name is Matthew Peters. 
 
-I decided to make my username petermatts because the names Matt and Peter exist in my first and last names respectively. My last name has an 's' at the end, so simply I decided to swap my first and last names leaving the 's' in its place to get peter + matt + s = petermatts, a unique username. 
+GitHub required I make a unique username, and after a little bit of thinking I came up with the solution.
+
+My last name ends in an 's', and without that 's' my name is made of 2 common first namers. So I decided to swap my first (abbreviated) and last names leaving the 's' in its place to get peter + matt + s = petermatts, a unique username. 
 
 <br/>
 
@@ -48,19 +50,40 @@ UMASS Amherst Class of 2024
 - Double Major Computer Science (primary) and Mathematics (secondary)
 - GPA: 3.966 / 4.000
 
-| Important Courses Taken        | Imporrtant Upcoming Courses(<1 year away) |
+| Important Courses Taken        | Important Upcoming Courses(<1 year away) |
 | ------------------------------ | ------------------------------------------- |
-| Data Structures amd Algorithms | Ordinary Differential Equations             |
-| Calculus Multivatiable         | Statistics                                  |
-| Linear Algebra                 | Intro to Computation                        |
-| Physics 1 & 2                  | Programming Methodology                     |
-|                                | Reasoning Under Uncertainty                 |
-|                                | Computer SystemsPrinciples                  |
+| Using Data Structures          | Ordinary Differential Equations             |
+| Data Structures and Algorithms | Statistics                                  |
+| Calculus Multivatiable         | Intro to Computation                        |
+| Linear Algebra                 | Programming Methodology                     |
+| General Physics 1 & 2          | Reasoning Under Uncertainty                 |
+|                                | Computer Systems Principles                 |
 
 <br />
 
+### **Recent/Current Projects**
+
+<u>[NFL Season Predictor](https://nfl-season-predictor.web.app/)</u>
+
+To view the webapp click the title above.
+
+This free time webapp project built with React, Firebase, Javascript, HTML and CSS serves as a way for users to easily predict game outcomes and track season standings.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=petermatts&repo=nfl-season-predictor)](https://github.com/petermatts/nfl-season-predictor)
+
+<u>[Crypto Research](https://docs.google.com/presentation/d/1A-kybBkG2lw1iO6qyywTAImklQ_yI9XctO-q7yy05p0/edit?usp=sharing)</u>
+
+Summer 2021 personal research project to expand my knowledge in computer science topics such as: cryptocurrencies, blockchains, cryptographic hashing, bitwise operations, and more. 
+
+There is a link to a breif google slides on what cryptocurrencies are, how they work, and their practicality of them being used as a medium of exchange moving forward, attached to the heading of this project section.
+
+In my learning I attempted implementing the beginings of code that would comprise a cryptocurrency. Including API usage and a coded version of the SHA-256 algorithm in both Java and C++. This can all be viewed in the repository below.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=petermatts&repo=Crypto-Research)](https://github.com/petermatts/Crypto-Research)
+
 ### **Currently Learning**
-- cryptography and crytocurrencies
+- Cryptography/Cryptographic Hashing Algorithms 
+- Crytocurrencies
 - C++
 
 ### **Languages and Tools**
@@ -83,15 +106,13 @@ UMASS Amherst Class of 2024
 
 *Some of the above images are difficult to view in darkmode, hover with mouse for more detail*
 
-<!-- 1. CSS
-1. Solodity -->
+<!-- Solodity -->
 
 <!-- --- -->
 
 ## More Information Coming Soon
 
 ### Topics
-- Projects
 - Hobbies
 - Fun Facts About Me?
 <!-- - Contact Information? -->
@@ -103,7 +124,3 @@ UMASS Amherst Class of 2024
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=petermatts&layout=compact&langs_count=10&hide_border=true)](https://github.com/petermatts)
 
 <img align="left" alt="petermatts' Github Stats" src="https://github-readme-stats.vercel.app/api?username=petermatts&show_icons=true&hide_border=true&hide_rank=true">
-
-<!-- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=petermatts&layout=compact&langs_count=10&hide_border=true)](https://github.com/petermatts) -->
-
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=petermatts&repo=nfl-season-predictor)](https://github.com/petermatts/nfl-season-predictor) -->
