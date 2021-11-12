@@ -6,8 +6,6 @@ GitHub required I make a unique username for my account, and after a little bit 
 
 My last name ends in an 's', and without that 's' my name is made of 2 common first names (Matt and Peter). I decided to swap my first (abbreviated) name and last name leaving the 's' in its place to get peter + matt + s = petermatts, a unique username. 
 
-<br/>
-
 <details><summary markdown="span"><u>Click here to show process in code form</u></summary>
 
 ```Java
@@ -44,28 +42,35 @@ public static String username() {
 ### **Education**
 
 Nashua (New Hampshire) High School North class of 2020
-- Rank 12/425
-- GPA: 4.84/5.40
+<!-- - Rank 12/425
+- GPA: 4.84/5.40 -->
 
 UMASS Amherst Class of 2024
 - Double Major Computer Science (primary) and Mathematics (secondary)
 - GPA: 3.966 / 4.000
 
-| Important Courses Taken          | Important Upcoming Courses (<1 year away)    |
+<!-- | Important Courses Taken          | Important Upcoming Courses (<1 year away)    |
 | -------------------------------- | -------------------------------------------- |
 | Using Data Structures            | Ordinary Differential Equations              |
 | Programming with Data Structures | Statistics                                   |
 | Calculus Multivatiable           | Intro to Computation                         |
 | Linear Algebra                   | Programming Methodology                      |
 | General Physics 1 & 2            | Reasoning Under Uncertainty                  |
-|                                  | Computer Systems Principles                  |
+|                                  | Computer Systems Principles                  | -->
 
+
+| Important Courses Taken          | Currently in progress (Fall 2021) | Important Upcoming Courses (<1 year away) |
+| -------------------------------- | --------------------------------- | ----------------------------------------- |
+| Using Data Structures            | Ordinary Differential Equations   | Reasoning Under Uncertainty               |
+| Programming with Data Structures | Statistics                        | Computer Systems Principles               |
+| Calculus Multivatiable           | Intro to Computation              | Linear Algerbra for Applied Mathematics   |
+| Intro to Linear Algebra          | Programming Methodology           | Algorithms                                |
+| General Physics 1 & 2            |                                   | Artificial Intelligence                   |
+|                                  |                                   |                                           |
 
 ## **Recent/Current Projects**
 
 ### [NFL Season Predictor](https://nfl-season-predictor.web.app/)
-
-To view the webapp click the title above.
 
 This free time webapp project built with React, Firebase, Javascript, HTML and CSS serves as a way for users to easily predict game outcomes and track season standings.
 
@@ -104,7 +109,7 @@ In my learning I attempted implementing the beginings of code that would compris
 [<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="30"/>](a "GitHub")
 [<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="30px">](a "Firebase")
 
-*Some of the above images are difficult to view in darkmode, hover with mouse for more detail*
+*Some of the above displays are difficult to view in darkmode, hover with mouse for more detail*
 
 <!-- Solodity -->
 
