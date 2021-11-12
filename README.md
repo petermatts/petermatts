@@ -66,7 +66,6 @@ UMASS Amherst Class of 2024
 | Calculus Multivatiable           | Intro to Computation              | Linear Algerbra for Applied Mathematics   |
 | Intro to Linear Algebra          | Programming Methodology           | Algorithms                                |
 | General Physics 1 & 2            |                                   | Artificial Intelligence                   |
-|                                  |                                   |                                           |
 
 ## **Recent/Current Projects**
 
