@@ -47,7 +47,7 @@ Nashua (New Hampshire) High School North class of 2020
 
 UMASS Amherst Class of 2024
 - Double Major Computer Science (primary) and Mathematics (secondary)
-- GPA: 3.966 / 4.000
+- GPA: 3.951 / 4.000
 
 <!-- | Important Courses Taken          | Important Upcoming Courses (<1 year away)    |
 | -------------------------------- | -------------------------------------------- |
@@ -59,13 +59,20 @@ UMASS Amherst Class of 2024
 |                                  | Computer Systems Principles                  | -->
 
 
-| Important Courses Taken          | Currently in progress (Fall 2021) | Important Upcoming Courses (<1 year away) |
-| -------------------------------- | --------------------------------- | ----------------------------------------- |
-| Using Data Structures            | Ordinary Differential Equations   | Reasoning Under Uncertainty               |
-| Programming with Data Structures | Statistics                        | Computer Systems Principles               |
-| Calculus Multivatiable           | Intro to Computation              | Linear Algerbra for Applied Mathematics   |
-| Intro to Linear Algebra          | Programming Methodology           | Algorithms                                |
-| General Physics 1 & 2            |                                   | Artificial Intelligence                   |
+## **Important Courses**
+| Completed                        | Current (Spring 2022)         | Upcoming (~1 year away)                 |
+| -------------------------------- | ----------------------------- | --------------------------------------- |
+| Using Data Structures            | Reasoning Under Uncertainty   | Algorithms                              |
+| Programming with Data Structures | Computer Systems Principles   | Linear Algerbra for Applied Mathematics |
+| Calculus Multivatiable           | Intro to Scientific Computing | Artificial Intelligence                 |
+| Intro to Linear Algebra          |                               | Intro to Software Engineering           |
+| Intro to Computation             |                               | Intro to Machine Learning               |
+
+
+<!-- Ordinary Differential Equations, Programming Methodology, Staistics -->
+
+## **Currently Learning (Winter 2021/2022)**
+- C/C++ Specialization on Coursera taught by Ira Pohl
 
 ## **Recent/Current Projects**
 
@@ -85,18 +92,11 @@ In my learning I attempted implementing the beginings of code that would compris
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=petermatts&repo=Crypto-Research)](https://github.com/petermatts/Crypto-Research)
 
-## **Currently Learning**
-- Cryptography/Cryptographic Hashing Algorithms 
-- Crytocurrencies
-- C++
-
 ## **Languages and Tools**
-
-<!-- <br /> -->
-
 [<img src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" height="30px" />](a "Java")
 [<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="30px" />](a "Javascript")
 [<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="30px" />](a "Python")
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" width="30px" />](a "C")
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" width="30px" />](a "C++")
 [<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="30px" />](a "HTML5")
 [<img src="https://tecfa.unige.ch/perso/mafritz/teaching/slides/assets/images/css3-logo.svg" height="30px"/>](a "CSS3")
@@ -108,20 +108,13 @@ In my learning I attempted implementing the beginings of code that would compris
 [<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="30"/>](a "GitHub")
 [<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="30px">](a "Firebase")
 
-*Some of the above displays are difficult to view in darkmode, hover with mouse for more detail*
-
-<!-- Solodity -->
-
-<!-- --- -->
+*Some of the above displays are difficult to view in darkmode, hover with mouse for description*
 
 ## More Information Coming Soon
 
 ### Topics
 - Hobbies
 - Fun Facts About Me?
-<!-- - Contact Information? -->
-
-<!-- <hr /> -->
 
 ## GitHub Data
 
