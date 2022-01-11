@@ -64,9 +64,9 @@ UMASS Amherst Class of 2024
 | -------------------------------- | ----------------------------- | --------------------------------------- |
 | Using Data Structures            | Reasoning Under Uncertainty   | Algorithms                              |
 | Programming with Data Structures | Computer Systems Principles   | Linear Algerbra for Applied Mathematics |
-| Calculus Multivatiable           | Intro to Scientific Computing | Artificial Intelligence                 |
-| Intro to Linear Algebra          |                               | Intro to Software Engineering           |
-| Intro to Computation             |                               | Intro to Machine Learning               |
+| Programming Methodology          | Intro to Scientific Computing | Artificial Intelligence                 |
+| Intro to Computation             |                               | Intro to Software Engineering           |
+| Statistics I                     |                               | Intro to Machine Learning               |
 
 
 <!-- Ordinary Differential Equations, Programming Methodology, Staistics -->
