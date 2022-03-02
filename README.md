@@ -33,7 +33,7 @@ public static String username() {
     return my_github_username; //petermatts
 }
 ```
-*example code for this process was based in Java*</details>
+*example code for this process as a Java method*</details>
 
 <!-- --- -->
 
@@ -46,7 +46,8 @@ Nashua (New Hampshire) High School North class of 2020
 - GPA: 4.84/5.40 -->
 
 UMASS Amherst Class of 2024
-- Double Major Computer Science (primary) and Mathematics (secondary)
+<!-- - Double Major Computer Science (primary) and Mathematics (secondary) -->
+- Double Major in Computer Science and Mathematics
 - GPA: 3.951 / 4.000
 
 <!-- | Important Courses Taken          | Important Upcoming Courses (<1 year away)    |
@@ -71,10 +72,11 @@ UMASS Amherst Class of 2024
 
 <!-- Ordinary Differential Equations, Programming Methodology, Staistics -->
 
-## **Currently Learning (Winter 2021/2022)**
+## **Winter 2021/2022**
 - C/C++ Specialization on Coursera taught by Ira Pohl
 
-## **Recent/Current Projects**
+<!-- ## **Recent/Current Projects** -->
+## **Personal Projects**
 
 ### [NFL Season Predictor](https://nfl-season-predictor.web.app/)
 
