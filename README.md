@@ -46,9 +46,8 @@ Nashua (New Hampshire) High School North class of 2020
 - GPA: 4.84/5.40 -->
 
 UMASS Amherst Class of 2024
-<!-- - Double Major Computer Science (primary) and Mathematics (secondary) -->
-- Double Major in Computer Science and Mathematics
-- GPA: 3.951 / 4.000
+- Double Major: Computer Science and Mathematics
+- GPA: 3.963 / 4.000
 
 <!-- | Important Courses Taken          | Important Upcoming Courses (<1 year away)    |
 | -------------------------------- | -------------------------------------------- |
@@ -61,19 +60,29 @@ UMASS Amherst Class of 2024
 
 
 ## **Important Courses**
-| Completed                        | Current (Spring 2022)         | Upcoming (~1 year away)                 |
-| -------------------------------- | ----------------------------- | --------------------------------------- |
-| Using Data Structures            | Reasoning Under Uncertainty   | Algorithms                              |
-| Programming with Data Structures | Computer Systems Principles   | Linear Algerbra for Applied Mathematics |
-| Programming Methodology          | Intro to Scientific Computing | Artificial Intelligence                 |
-| Intro to Computation             |                               | Intro to Software Engineering           |
-| Statistics I                     |                               | Intro to Machine Learning               |
+| Completed                        | Upcoming (Fall 2022)                      | Beyond                                  |
+| -------------------------------- | ----------------------------------------- | --------------------------------------- |
+| Using Data Structures            | Algorithms                                | Intro to Software Engineering           |
+| Programming with Data Structures | Linear Algerbra for Applied Mathematics   | Intro to Machine Learning               |
+| Programming Methodology          | Artificial Intelligence                   | Machine Learning                        |
+| Intro to Computation             |                                           | Applied Cryptography                    |
+| Reasoning Under Uncertainty      |                                           | Formal Language Theory                  |
+| Computer Systems Principles      |                                           |                                         |
+| Intro to Scientific Computing    |                                           |                                         |
 
+### **Other cool courses**
+- Multivariable Calculus
+- Linear Algebra
+- Differential Equations
+- Statistics I
 
-<!-- Ordinary Differential Equations, Programming Methodology, Staistics -->
+<!-- Ordinary Differential Equations, Multivariable Calc, Statistics I -->
 
-## **Winter 2021/2022**
-- C/C++ Specialization on Coursera taught by Ira Pohl
+<!-- ## **Winter 2021/2022**
+- C/C++ Specialization on Coursera taught by Ira Pohl -->
+
+## **Summer 2022**
+- Introduction to Quantum Information taught by Joonwoo Bae on Coursera
 
 <!-- ## **Recent/Current Projects** -->
 ## **Personal Projects**
@@ -109,6 +118,7 @@ In my learning I attempted implementing the beginings of code that would compris
 [<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="30px"/>](a "Git")
 [<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="30"/>](a "GitHub")
 [<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="30px">](a "Firebase")
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png" width="30px">](a "MATLAB")
 
 *Some of the above displays are difficult to view in darkmode, hover with mouse for description*
 
