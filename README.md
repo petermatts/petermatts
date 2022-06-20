@@ -81,8 +81,8 @@ UMASS Amherst Class of 2024
 <!-- ## **Winter 2021/2022**
 - C/C++ Specialization on Coursera taught by Ira Pohl -->
 
-## **Summer 2022**
-- Introduction to Quantum Information taught by Joonwoo Bae on Coursera
+<!-- ## **Summer 2022**
+- Introduction to Quantum Information taught by Joonwoo Bae on Coursera -->
 
 <!-- ## **Recent/Current Projects** -->
 ## **Personal Projects**
