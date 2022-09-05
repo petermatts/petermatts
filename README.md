@@ -45,18 +45,9 @@ Nashua (New Hampshire) High School North class of 2020
 <!-- - Rank 12/425
 - GPA: 4.84/5.40 -->
 
-UMASS Amherst Class of 2024
+UMass Amherst Class of 2024
 - Double Major: Computer Science and Mathematics
 - GPA: 3.963 / 4.000
-
-<!-- | Important Courses Taken          | Important Upcoming Courses (<1 year away)    |
-| -------------------------------- | -------------------------------------------- |
-| Using Data Structures            | Ordinary Differential Equations              |
-| Programming with Data Structures | Statistics                                   |
-| Calculus Multivatiable           | Intro to Computation                         |
-| Linear Algebra                   | Programming Methodology                      |
-| General Physics 1 & 2            | Reasoning Under Uncertainty                  |
-|                                  | Computer Systems Principles                  | -->
 
 
 ## **Important Courses**
@@ -76,13 +67,6 @@ UMASS Amherst Class of 2024
 - Differential Equations
 - Statistics I
 
-<!-- Ordinary Differential Equations, Multivariable Calc, Statistics I -->
-
-<!-- ## **Winter 2021/2022**
-- C/C++ Specialization on Coursera taught by Ira Pohl -->
-
-## **Summer 2022**
-- Introduction to Quantum Information taught by Joonwoo Bae on Coursera
 
 <!-- ## **Recent/Current Projects** -->
 ## **Personal Projects**
@@ -104,6 +88,8 @@ In my learning I attempted implementing the beginings of code that would compris
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=petermatts&repo=Crypto-Research)](https://github.com/petermatts/Crypto-Research)
 
 ## **Languages and Tools**
+<!-- todo seoarate languages/code and software tools into different lines -->
+
 [<img src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" height="30px" />](a "Java")
 [<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="30px" />](a "Javascript")
 [<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="30px" />](a "Python")
@@ -112,6 +98,7 @@ In my learning I attempted implementing the beginings of code that would compris
 [<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="30px" />](a "HTML5")
 [<img src="https://tecfa.unige.ch/perso/mafritz/teaching/slides/assets/images/css3-logo.svg" height="30px"/>](a "CSS3")
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/1280px-LaTeX_logo.svg.png" height="30px"/>](a "LaTeX")
+
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" width="30px"/>](a "Visual Studio Code")
 [<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="30px" />](a "React JS")
 [<img src="https://www.paceit.co.uk/wp-content/uploads/2021/07/react-native-development-company.png" width="30px" />](a "React Native")
