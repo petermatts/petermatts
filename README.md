@@ -51,7 +51,7 @@ UMass Amherst Class of 2024
 
 
 ## **Important Courses**
-| Completed                        | Upcoming (Fall 2022)                      | Beyond                                  |
+| Completed                        | Current (Fall 2022)                      | Beyond                                  |
 | -------------------------------- | ----------------------------------------- | --------------------------------------- |
 | Using Data Structures            | Algorithms                                | Intro to Software Engineering           |
 | Programming with Data Structures | Linear Algerbra for Applied Mathematics   | Intro to Machine Learning               |
@@ -117,7 +117,7 @@ In my learning I attempted implementing the beginings of code that would compris
 
 ## GitHub Data
 
-[![Top Languages](https://github-readme-stats-petermatts.vercel.app/api/top-langs/?username=petermatts&layout=compact&langs_count=10&hide_border=true&hide=Solidity,M,Python,Makefile)](https://github.com/petermatts)
+[![Top Languages](https://github-readme-stats-petermatts.vercel.app/api/top-langs/?username=petermatts&layout=compact&langs_count=10&hide_border=true&hide=Solidity,M,Makefile)](https://github.com/petermatts)
 
 <img align="left" alt="petermatts' Github Stats" src="https://github-readme-stats-petermatts.vercel.app/api?username=petermatts&show_icons=true&hide_border=true&hide_rank=true">
 
