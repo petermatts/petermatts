@@ -47,19 +47,22 @@ Nashua (New Hampshire) High School North class of 2020
 
 UMass Amherst Class of 2024
 - Double Major: Computer Science and Mathematics
-- GPA: 3.963 / 4.000
+- GPA: 3.969 / 4.000
 
+<!-- Separate tables by math vs cs classes? -->
 
 ## **Important Courses**
-| Completed                        | Current (Fall 2022)                      | Beyond                                  |
+| Completed                        | Current (Spring 2023)                     | Beyond                                  |
 | -------------------------------- | ----------------------------------------- | --------------------------------------- |
-| Using Data Structures            | Algorithms                                | Intro to Software Engineering           |
-| Programming with Data Structures | Linear Algerbra for Applied Mathematics   | Intro to Machine Learning               |
-| Programming Methodology          | Artificial Intelligence                   | Machine Learning                        |
-| Intro to Computation             |                                           | Applied Cryptography                    |
-| Reasoning Under Uncertainty      |                                           | Formal Language Theory                  |
+| Using Data Structures            | Intro to Machine Learning                 | Intro to Software Engineering           |
+| Programming with Data Structures | Machine Learning                          | Web Programming                         |
+| Programming Methodology          | Applied Cryptography                      | Formal Language Theory                  |
+| Intro to Computation             | Intro to Abstract Algebra I               | Intro to Computer Vision                |
+| Reasoning Under Uncertainty      | Intro to Computer Graphics                | Intelligent Visual Computing            |
 | Computer Systems Principles      |                                           |                                         |
 | Intro to Scientific Computing    |                                           |                                         |
+| Introduction to Algorithms       |||
+| Artificial Intelligence          |||
 
 ### **Other cool courses**
 - Multivariable Calculus
