@@ -112,7 +112,7 @@ In my learning I attempted implementing the beginings of code that would compris
 
 *Some of the above displays are difficult to view in darkmode, hover with mouse for description*
 
-## More Information Coming Soon
+## More Information Coming TBD
 
 ### Topics
 - Hobbies
