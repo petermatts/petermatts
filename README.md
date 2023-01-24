@@ -74,6 +74,9 @@ UMass Amherst Class of 2024
 <!-- ## **Recent/Current Projects** -->
 ## **Personal Projects**
 
+<!-- TODO Uncomment line below after merge to main -->
+<!-- See [`Repos.md`](https://github.com/petermatts/petermatts/blob/main/Repos.md) for more detailed information. -->
+
 ### [NFL Season Predictor](https://nfl-season-predictor.web.app/)
 
 This free time webapp project built with React, Firebase, Javascript, HTML and CSS serves as a way for users to easily predict game outcomes and track season standings.

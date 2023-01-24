@@ -1,2 +1,7 @@
-*.cpp
 *.c
+*.o
+*.exe
+*.class
+*.bat
+*.cmd
+*.sh
