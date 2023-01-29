@@ -117,9 +117,3 @@ See [`Repos.md`](https://github.com/petermatts/petermatts/blob/main/Repos.md).
 
 <!-- Shows rank -->
 <!-- <img align="left" alt="petermatts' Github Stats" src="https://github-readme-stats-petermatts.vercel.app/api?username=petermatts&show_icons=true&hide_border=true"> -->
-
-## More Information Coming TBD
-
-### Topics
-- Hobbies
-- Fun Facts About Me?
