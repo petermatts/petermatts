@@ -81,30 +81,12 @@ UMass Amherst Class of 2024
 - Statistics I
 
 
-<!-- ## **Recent/Current Projects** -->
-## **Personal Projects**
+## **My Projects/Repositories**
 
-<!-- TODO Uncomment line below after merge to main -->
-<!-- See [`Repos.md`](https://github.com/petermatts/petermatts/blob/main/Repos.md) for more detailed information. -->
+See [`Repos.md`](https://github.com/petermatts/petermatts/blob/main/Repos.md).
 
-### [NFL Season Predictor](https://nfl-season-predictor.web.app/)
-
-This free time webapp project built with React, Firebase, Javascript, HTML and CSS serves as a way for users to easily predict game outcomes and track season standings.
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=petermatts&repo=nfl-season-predictor)](https://github.com/petermatts/nfl-season-predictor)
-
-### [Crypto Research](https://docs.google.com/presentation/d/1A-kybBkG2lw1iO6qyywTAImklQ_yI9XctO-q7yy05p0/edit?usp=sharing)
-
-Summer 2021 personal research project to expand my knowledge in computer science topics such as: cryptocurrencies, blockchains, cryptographic hashing, bitwise operations, and more. 
-
-There is a link to a breif google slides on what cryptocurrencies are, how they work, and their practicality of them being used as a medium of exchange moving forward, attached to the heading of this project section.
-
-In my learning I attempted implementing the beginings of code that would comprise a cryptocurrency. Including API usage and a coded version of the SHA-256 algorithm in both Java and C++. This can all be viewed in the repository below.
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=petermatts&repo=Crypto-Research)](https://github.com/petermatts/Crypto-Research)
 
 ## **Languages and Tools**
-<!-- todo seoarate languages/code and software tools into different lines -->
 
 [<img src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" height="30px" />](a "Java")
 [<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="30px" />](a "Javascript")

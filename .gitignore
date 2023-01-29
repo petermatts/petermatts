@@ -1,6 +1,6 @@
 *.o
 *.exe
 *.class
-*.bat
-*.cmd
-*.sh
+# *.bat
+# *.cmd
+# *.sh
