@@ -6,7 +6,7 @@ GitHub required I make a unique username for my account, and after a little bit 
 
 My last name ends in an 's', and without that 's' my name is made of 2 common first names (Matt and Peter). I decided to swap my first (abbreviated) name and last name leaving the 's' in its place to get peter + matt + s = petermatts, a unique username. 
 
-<!-- <details><summary markdown="span"><u>Click here to show process in code form</u></summary>
+<details><summary markdown="span"><u>Click here to show process in code form</u></summary>
 
 ```Java
 public static String username() {
@@ -33,9 +33,9 @@ public static String username() {
     return my_github_username; //petermatts
 }
 ```
-*example code for this process as a Java method*</details> -->
+*example code for this process as a Java method*</details>
 
-<details><summary markdown="span"><u>Click here to show process in code form</u></summary>
+<!-- <details><summary markdown="span"><u>Click here to show process in code form</u></summary>
 
 ```Python
     name = "Matthew Peters"
@@ -43,7 +43,7 @@ public static String username() {
     github_username = data[1][:-1] + data[0][:4] + data[1][-1:]
     print("Python:", github_username)
 ```
-*example code for this process as a Java method*</details>
+*example code for this process as a Java method*</details> -->
 
 <!-- --- -->
 
