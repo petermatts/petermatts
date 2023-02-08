@@ -51,13 +51,14 @@ public static String username() {
 
 ### **Education**
 
-Nashua (New Hampshire) High School North class of 2020
-<!-- - Rank 12/425
-- GPA: 4.84/5.40 -->
 
 UMass Amherst Class of 2024
 - Double Major: Computer Science and Mathematics
 - GPA: 3.969 / 4.000
+
+Nashua (New Hampshire) High School North class of 2020
+<!-- - Rank 12/425
+- GPA: 4.84/5.40 -->
 
 <!-- Separate tables by math vs cs classes? -->
 
@@ -99,7 +100,7 @@ See [`Repos.md`](https://github.com/petermatts/petermatts/blob/main/Repos.md).
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" width="30px"/>](a "Visual Studio Code")
 [<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="30px" />](a "React JS")
-[<img src="https://www.paceit.co.uk/wp-content/uploads/2021/07/react-native-development-company.png" width="30px" />](a "React Native")
+[<img src="https://raw.githubusercontent.com/kristerkari/react-native-svg-transformer/HEAD/images/react-native-logo.png" width="30px" />](a "React Native")
 [<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="30px"/>](a "Git")
 [<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="30"/>](a "GitHub")
 [<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="30px">](a "Firebase")
