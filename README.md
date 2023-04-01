@@ -89,7 +89,7 @@ See [`Repos.md`](https://github.com/petermatts/petermatts/blob/main/Repos.md).
 
 ## **Languages and Tools**
 
-[<img src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" height="30px" />](a "Java")
+[<img src="https://cdn.freebiesupply.com/logos/large/2x/java-14-logo-png-transparent.png" height="30px" />](a "Java")
 [<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="30px" />](a "Javascript")
 [<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="30px" />](a "Python")
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" width="30px" />](a "C")
