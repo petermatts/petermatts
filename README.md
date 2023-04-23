@@ -106,13 +106,15 @@ See [`Repos.md`](https://github.com/petermatts/petermatts/blob/main/Repos.md).
 [<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="30px">](a "Firebase")
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png" width="30px">](a "MATLAB")
 [<img src="https://technology.howard.edu/sites/technology.howard.edu/files/styles/large/public/mathematica-logo.png?itok=sZVilQp7" width="30px">](a "Mathmatica")
+[<img src="https://www.svgrepo.com/show/354445/terminal.svg" width="30px">](a "Terminal/Cmd")
 
 *Some of the above displays are difficult to view in darkmode, hover with mouse for description*
 
 
 ## GitHub Data
 
-[![Top Languages](https://github-readme-stats-petermatts.vercel.app/api/top-langs/?username=petermatts&layout=compact&langs_count=10&hide_border=true&hide=Solidity,M,Makefile)](https://github.com/petermatts)
+<!-- removed Jupyter Notebook and LaTeX -->
+[![Top Languages](https://github-readme-stats-petermatts.vercel.app/api/top-langs/?username=petermatts&layout=compact&langs_count=10&hide_border=true&hide=Solidity,M,Makefile,Jupyter+Notebook,TeX)](https://github.com/petermatts)
 
 <img align="left" alt="petermatts' Github Stats" src="https://github-readme-stats-petermatts.vercel.app/api?username=petermatts&show_icons=true&hide_border=true&hide_rank=true">
 
