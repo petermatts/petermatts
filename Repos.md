@@ -79,11 +79,32 @@ This project will be made public at some point in the future.
 
 ### **Current**
 - Car Comparer
+  - Web scrape car specs
+  - Find a way to display data for users to make comparisons and rankings
+  - For fun or possibly help making decisions on a purchase
 - Lottery Sim/Prob calculator
-- Instagram analyzer (compute set difference of followers vs following)
+  - Scrape lottery drawing histories (powerball and megamillions) 
+  - Do statistical analysis and simulate drawings
+- Instagram analyzer
+  - Compute set difference of followers vs following)
 
 ### **Future**
 - Stock Analyzer
+  - ML/AI
+  - FFT???
 - Runtime Analysis Parser
-  <!-- - parse through code and generate a runtime analysis in big-O notation -->
-
+  - Parse through code and generate a runtime analysis in big-O notation
+  - Might be difficult but could be really cool
+- Language Runtime Comparison
+  - Code up some cool algorithms (probably mathematical because math is cool) in a bunch of languages
+  - Plot runtime comparison between languages
+  - Presents me with a good opportunity to refresh/expand my prgoramming language knowledge
+  - Langs include but not limited to:
+    - Java
+    - C
+    - C++
+    - Python
+    - JavaScript
+    - Go
+    - Ruby
+    - More but I'm blanking right now

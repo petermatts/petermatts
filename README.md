@@ -1,12 +1,16 @@
 # I’m @petermatts
 
-My real name is Matthew Peters. 
+My real name is Matthew Peters.
 
 GitHub required I make a unique username for my account, and after a little bit of thinking I came up with my solution.
 
-My last name ends in an 's', and without that 's' my name is made of 2 common first names (Matt and Peter). I decided to swap my first (abbreviated) name and last name leaving the 's' in its place to get peter + matt + s = petermatts, a unique username. 
+My last name ends in an 's', and without that 's' my name is made of 2 common first names (Matt and Peter). I decided to swap my first (abbreviated) name and last name leaving the 's' in its place to get peter + matt + s = petermatts, a unique username.
 
-<details><summary markdown="span"><u>Click here to show process in code form</u></summary>
+<details>
+
+<summary markdown="span">
+    <u>Click here to show process in code form</u>
+</summary>
 
 ```Java
 public static String username() {
@@ -33,6 +37,7 @@ public static String username() {
     return my_github_username; //petermatts
 }
 ```
+
 *example code for this process as a Java method*</details>
 
 <!-- <details><summary markdown="span"><u>Click here to show process in code form</u></summary>
@@ -51,10 +56,10 @@ public static String username() {
 
 ### **Education**
 
-
 UMass Amherst Class of 2024
+
 - Double Major: Computer Science and Mathematics
-- GPA: 3.969 / 4.000
+- GPA: 3.952 / 4.000
 
 Nashua (New Hampshire) High School North class of 2020
 <!-- - Rank 12/425
@@ -63,29 +68,35 @@ Nashua (New Hampshire) High School North class of 2020
 <!-- Separate tables by math vs cs classes? -->
 
 ## **Important Courses**
-| Completed                        | Current (Spring 2023)                     | Beyond                                  |
+
+| Completed                        | Upcoming (Fall 2023)                      | Beyond (Spring 2024 plan)               |
 | -------------------------------- | ----------------------------------------- | --------------------------------------- |
-| Using Data Structures            | Intro to Machine Learning                 | Intro to Software Engineering           |
-| Programming with Data Structures | Machine Learning                          | Web Programming                         |
-| Programming Methodology          | Applied Cryptography                      | Formal Language Theory                  |
-| Intro to Computation             | Intro to Abstract Algebra I               | Intro to Computer Vision                |
-| Reasoning Under Uncertainty      | Intro to Computer Graphics                | Intelligent Visual Computing            |
+| Introduction to Algorithms       | Web Programming                           | Formal Language Theory                  |
+| Intro to Scientific Computing    | Machine Learning (Grad Level              | Intelligent Visual Computing            |
+| Artificial Intelligence          | Other non CS or Math Gen Eds              | Intro to Simulation                     |
+| Intro to Machine Learning        |                                           |                                         |
+| Machine Learning                 |                                           |                                         |
+| Reasoning Under Uncertainty      |                                           |                                         |
 | Computer Systems Principles      |                                           |                                         |
-| Intro to Scientific Computing    |                                           |                                         |
-| Introduction to Algorithms       |||
-| Artificial Intelligence          |||
+| Applied Cryptography             |                                           |                                         |
+
 
 ### **Other cool courses**
+
+- Using Data Structures
+- Programming with Data Structures
+- Programming Methodology
+- Intro to Computation
 - Multivariable Calculus
 - Linear Algebra
 - Differential Equations
 - Statistics I
-
+- Intro to Abstract Algebra I
+- Intro to Computer Graphics
 
 ## **My Projects/Repositories**
 
 See [`Repos.md`](https://github.com/petermatts/petermatts/blob/main/Repos.md).
-
 
 ## **Languages and Tools**
 
@@ -97,6 +108,7 @@ See [`Repos.md`](https://github.com/petermatts/petermatts/blob/main/Repos.md).
 [<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="30px" />](a "HTML5")
 [<img src="https://tecfa.unige.ch/perso/mafritz/teaching/slides/assets/images/css3-logo.svg" height="30px"/>](a "CSS3")
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/1280px-LaTeX_logo.svg.png" height="30px"/>](a "LaTeX")
+[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYkbGAhmcYo1cCQtJvI94pA4_g_YW6EsVJ1OkIe8moeOCvD7rmAEMz05kVN6V1ZCa0dw&usqp=CAU" height="30px"/>](a "SWIG")
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" width="30px"/>](a "Visual Studio Code")
 [<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="30px" />](a "React JS")
@@ -106,10 +118,10 @@ See [`Repos.md`](https://github.com/petermatts/petermatts/blob/main/Repos.md).
 [<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="30px">](a "Firebase")
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png" width="30px">](a "MATLAB")
 [<img src="https://technology.howard.edu/sites/technology.howard.edu/files/styles/large/public/mathematica-logo.png?itok=sZVilQp7" width="30px">](a "Mathmatica")
-[<img src="https://www.svgrepo.com/show/354445/terminal.svg" width="30px">](a "Terminal/Cmd")
+[<img src="https://www.svgrepo.com/show/354445/terminal.svg" width="30px">](a "Shell Scripts")
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Cmake.svg/2048px-Cmake.svg.png" width="30px">](a "CMake")
 
 *Some of the above displays are difficult to view in darkmode, hover with mouse for description*
-
 
 ## GitHub Data
 
@@ -117,7 +129,6 @@ See [`Repos.md`](https://github.com/petermatts/petermatts/blob/main/Repos.md).
 [![Top Languages](https://github-readme-stats-petermatts.vercel.app/api/top-langs/?username=petermatts&layout=compact&langs_count=10&hide_border=true&hide=Solidity,M,Makefile,Jupyter+Notebook,TeX)](https://github.com/petermatts)
 
 <img align="left" alt="petermatts' Github Stats" src="https://github-readme-stats-petermatts.vercel.app/api?username=petermatts&show_icons=true&hide_border=true&hide_rank=true">
-
 
 <!-- Shows rank -->
 <!-- <img align="left" alt="petermatts' Github Stats" src="https://github-readme-stats-petermatts.vercel.app/api?username=petermatts&show_icons=true&hide_border=true"> -->
