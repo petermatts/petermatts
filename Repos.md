@@ -55,7 +55,7 @@ View slide on research [Crypto Research](https://docs.google.com/presentation/d/
 
 ## Private Repos
 
-### **UMASS**
+### **UMASS** and related repositories
 
 Repository to store all code homework/projects from my undergraduate courses at University of Massachusetts Amherst.
 
@@ -69,11 +69,6 @@ Repository may be made public at some point but be warned...
 
 If you use it and win you owe me a cut :)
 
-### **InstaFF**
-
-New project. I haven't started it yet but the idea is to: have code that will login into your Instagram (provided with your credentials) and return to you a comparison (set difference and union) between the users you follow and the users that follow you.
-
-This project will be made public at some point in the future.
 
 ## Future/Current Projects
 
@@ -85,13 +80,15 @@ This project will be made public at some point in the future.
 - Lottery Sim/Prob calculator
   - Scrape lottery drawing histories (powerball and megamillions) 
   - Do statistical analysis and simulate drawings
-- Instagram analyzer
-  - Compute set difference of followers vs following)
 
 ### **Future**
 - Stock Analyzer
   - ML/AI
   - FFT???
+- Code Formatter VS Code Extension
+  - As the name implies, a VS Code extension that formats code neatly to users desired style
+    - Hanging braces, inline braces, etc.
+  - Should be a fairly simple and easy project
 - Runtime Analysis Parser
   - Parse through code and generate a runtime analysis in big-O notation
   - Might be difficult but could be really cool
