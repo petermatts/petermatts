@@ -40,6 +40,14 @@ A python code project that will (still under construction in my free time) web s
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=petermatts&repo=CarStats)](https://github.com/petermatts/CarStats)
 
+### ** CodeFormatter **
+
+(Not Public yet)
+
+A VS Code extension project that aims to support the development of clean well formatted code. More details coming soon/found in that repo when it becomes public.
+
+This project will be comprised of Javascript, Typescript, and Python.
+
 ### **Crypto Research**
 
 Summer 2021 personal research project to expand my knowledge in computer science topics such as: cryptocurrencies, blockchains, cryptographic hashing, bitwise operations, and more. 

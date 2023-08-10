@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+        "outFile": "Name.ts.js"
+    },
+    "files": [
+        "Name.ts"
+    ]
+  }
