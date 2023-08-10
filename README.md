@@ -100,15 +100,19 @@ See [`Repos.md`](https://github.com/petermatts/petermatts/blob/main/Repos.md).
 
 ## **Languages and Tools**
 
+<!-- Cool site for logos https://worldvectorlogo.com/ -->
+
 [<img src="https://cdn.freebiesupply.com/logos/large/2x/java-14-logo-png-transparent.png" height="30px" />](a "Java")
-[<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="30px" />](a "Javascript")
+[<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="30px" />](a "Javascript")
+[<img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" height="30px"/>](a "Typescript")
 [<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="30px" />](a "Python")
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" width="30px" />](a "C")
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" width="30px" />](a "C++")
 [<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="30px" />](a "HTML5")
 [<img src="https://tecfa.unige.ch/perso/mafritz/teaching/slides/assets/images/css3-logo.svg" height="30px"/>](a "CSS3")
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/1280px-LaTeX_logo.svg.png" height="30px"/>](a "LaTeX")
+[<img src="https://cdn.worldvectorlogo.com/logos/latex.svg" height="30px"/>](a "LaTeX")
 [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYkbGAhmcYo1cCQtJvI94pA4_g_YW6EsVJ1OkIe8moeOCvD7rmAEMz05kVN6V1ZCa0dw&usqp=CAU" height="30px"/>](a "SWIG")
+[<img src="https://cdn.worldvectorlogo.com/logos/nvidia.svg" height="30px"/>](a "CUDA")
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" width="30px"/>](a "Visual Studio Code")
 [<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="30px" />](a "React JS")
@@ -118,7 +122,7 @@ See [`Repos.md`](https://github.com/petermatts/petermatts/blob/main/Repos.md).
 [<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="30px">](a "Firebase")
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png" width="30px">](a "MATLAB")
 [<img src="https://technology.howard.edu/sites/technology.howard.edu/files/styles/large/public/mathematica-logo.png?itok=sZVilQp7" width="30px">](a "Mathmatica")
-[<img src="https://www.svgrepo.com/show/354445/terminal.svg" width="30px">](a "Shell Scripts")
+[<img src="https://www.svgrepo.com/show/354445/terminal.svg" width="30px">](a "Shell/Batch/Bash")
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Cmake.svg/2048px-Cmake.svg.png" width="30px">](a "CMake")
 
 *Some of the above displays are difficult to view in darkmode, hover with mouse for description*
