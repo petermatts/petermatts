@@ -72,7 +72,7 @@ Nashua (New Hampshire) High School North class of 2020
 | Completed                        | Upcoming (Fall 2023)                      | Beyond (Spring 2024 plan)               |
 | -------------------------------- | ----------------------------------------- | --------------------------------------- |
 | Introduction to Algorithms       | Web Programming                           | Formal Language Theory                  |
-| Intro to Scientific Computing    | Machine Learning (Grad Level              | Intelligent Visual Computing            |
+| Intro to Scientific Computing    | Machine Learning (Grad Level)             | Intelligent Visual Computing            |
 | Artificial Intelligence          | Other non CS or Math Gen Eds              | Intro to Simulation                     |
 | Intro to Machine Learning        |                                           |                                         |
 | Machine Learning                 |                                           |                                         |
