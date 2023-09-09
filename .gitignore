@@ -1,8 +1,13 @@
 *.o
 *.exe
 *.class
-# *.bat
-# *.cmd
-# *.sh
+*.bat
+*.cmd
+*.sh
+
+go.mod
 
 Name.ts.js
+CoolTextbooks.md
+
+.vscode

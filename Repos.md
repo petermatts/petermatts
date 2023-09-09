@@ -77,6 +77,10 @@ Repository may be made public at some point but be warned...
 
 If you use it and win you owe me a cut :)
 
+### **LearningCUDA**
+
+[TODO] Description coming soon...
+
 
 ## Future/Current Projects
 
@@ -88,15 +92,15 @@ If you use it and win you owe me a cut :)
 - Lottery Sim/Prob calculator
   - Scrape lottery drawing histories (powerball and megamillions) 
   - Do statistical analysis and simulate drawings
+- Code Formatter
+  - VS Code extension
+  - Will support proper code styling i.e. spacing and indentation and more
+  - Still in early stages of developement
 
 ### **Future**
 - Stock Analyzer
   - ML/AI
   - FFT???
-- Code Formatter VS Code Extension
-  - As the name implies, a VS Code extension that formats code neatly to users desired style
-    - Hanging braces, inline braces, etc.
-  - Should be a fairly simple and easy project
 - Runtime Analysis Parser
   - Parse through code and generate a runtime analysis in big-O notation
   - Might be difficult but could be really cool
@@ -108,6 +112,7 @@ If you use it and win you owe me a cut :)
     - Java
     - C
     - C++
+    - CUDA
     - Python
     - JavaScript
     - Go
