@@ -69,19 +69,19 @@ Nashua (New Hampshire) High School North class of 2020
 
 ## **Important Courses**
 
-| Completed                        | Upcoming (Fall 2023)                      | Beyond (Spring 2024 plan)               |
+| Completed                        | Current (Fall 2023)                       | Beyond (Spring 2024)                    |
 | -------------------------------- | ----------------------------------------- | --------------------------------------- |
 | Introduction to Algorithms       | Web Programming                           | Formal Language Theory                  |
-| Intro to Scientific Computing    | Machine Learning (Grad Level)             | Intelligent Visual Computing            |
+| Intro to Scientific Computing    | Machine Learning (Ph.D. Level)            | Intelligent Visual Computing            |
 | Artificial Intelligence          | Other non CS or Math Gen Eds              | Intro to Simulation                     |
 | Intro to Machine Learning        |                                           |                                         |
-| Machine Learning                 |                                           |                                         |
+| Machine Learning (Grad)          |                                           |                                         |
 | Reasoning Under Uncertainty      |                                           |                                         |
 | Computer Systems Principles      |                                           |                                         |
 | Applied Cryptography             |                                           |                                         |
 
 
-### **Other cool courses**
+### **Other cool/interseting courses**
 
 - Using Data Structures
 - Programming with Data Structures
@@ -116,7 +116,7 @@ See [`Repos.md`](https://github.com/petermatts/petermatts/blob/main/Repos.md).
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" width="30px"/>](a "Visual Studio Code")
 [<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="30px" />](a "React JS")
-[<img src="https://raw.githubusercontent.com/kristerkari/react-native-svg-transformer/HEAD/images/react-native-logo.png" width="30px" />](a "React Native")
+[<img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" height="30px" />](a "React Native")
 [<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="30px"/>](a "Git")
 [<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="30"/>](a "GitHub")
 [<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="30px">](a "Firebase")

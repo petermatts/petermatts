@@ -8,7 +8,7 @@ This repo is for my GitHub profile.
 
 The main README.md contains the main overview. Including how I came up with my github username. In the readme I gave a code form explanation. 
 
-This repository has this code saved in different popular languages (Java, Javascript, Python, C, C++) with more to come maybe. There are also command files: `run.bat`, `run.cmd`, and `run.sh` to run these on Windows, MacOS, and Linux respectively.
+This repository has this code saved in different popular languages likes Java, Javascript, Python, C, C++ and more!
 
 This file contains a deeper dive into my repositories where I even describe some of my private repos that you cannot see.
 
@@ -28,7 +28,7 @@ Try out the webapp [NFL Season Predictor](https://nfl-season-predictor.web.app/)
 
 ### **Heart** 
 
-A Python project the Turtle package to draw a heart and the pyinstaller package to generate the executible file to draw the heart anytime.
+A Python project using the Turtle package to draw a heart and the pyinstaller package to generate the executible file to draw the heart anytime.
 
 I made this for my girlfriend ❤️
 
@@ -41,8 +41,6 @@ A python code project that will (still under construction in my free time) web s
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=petermatts&repo=CarStats)](https://github.com/petermatts/CarStats)
 
 ### **CodeFormatter**
-
-(Not Public yet)
 
 A VS Code extension project that aims to support the development of clean well formatted code. More details coming soon/found in that repo when it becomes public.
 
