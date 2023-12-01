@@ -71,6 +71,8 @@ This repository will remain private to the end of time.
 
 Webscrapes popular lotteries like the Powerball or Megamillions for number frequencies and computes statistics on this data to generate which numbers (should) be most likely to come up soon, if any.
 
+Upcoming features: better data saving which will lead to new statistical and ML models for this application.
+
 Repository may be made public at some point but be warned...
 
 If you use it and win you owe me a cut :)
@@ -102,6 +104,15 @@ If you use it and win you owe me a cut :)
 - Runtime Analysis Parser
   - Parse through code and generate a runtime analysis in big-O notation
   - Might be difficult but could be really cool
+- Library/documentation of all algorithms
+  - https://en.wikipedia.org/wiki/List_of_algorithms
+  - Like a application that displays all algorithms categorized
+    - number theoretic, graph, sort, etc.
+  - Under each algorithm would be pseudo code, maybe some real code, possible proofs,
+    and references to paper that introduced the algorithm
+  - Need to devise a way to get all information into application
+    - Manual additions (like wikipedia?)
+    - AI/webscraping?
 - Language Runtime Comparison
   - Code up some cool algorithms (probably mathematical because math is cool) in a bunch of languages
   - Plot runtime comparison between languages

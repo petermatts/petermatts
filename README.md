@@ -74,7 +74,7 @@ Nashua (New Hampshire) High School North class of 2020
 | Introduction to Algorithms       | Web Programming                           | Formal Language Theory                  |
 | Intro to Scientific Computing    | Machine Learning (Ph.D. Level)            | Intelligent Visual Computing            |
 | Artificial Intelligence          | Other non CS or Math Gen Eds              | Intro to Simulation                     |
-| Intro to Machine Learning        |                                           |                                         |
+| Intro to Machine Learning        |                                           | Quantum Information Systems             |
 | Machine Learning (Grad)          |                                           |                                         |
 | Reasoning Under Uncertainty      |                                           |                                         |
 | Computer Systems Principles      |                                           |                                         |
