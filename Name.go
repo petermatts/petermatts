@@ -12,5 +12,5 @@ func main() {
 	var s = name[len(name)-1:]
 
 	var username = strings.ToLower(last + first + s)
-	fmt.Println(username)
+	fmt.Println("Go:     " + username)
 }
