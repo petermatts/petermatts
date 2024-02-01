@@ -3,9 +3,9 @@
 
 using namespace std;
 
-string get_github_username() {
+string get_github_username()
+{
     string name = "Matthew Peters";
-    // ::transform(name.begin(), name.end(), name.begin(), ::tolower);
     string first = name.substr(0,4);
     string last = name.substr(8, 5);
     string s = name.substr(13, 1);
@@ -19,7 +19,8 @@ string get_github_username() {
     return github_username;
 };
 
-int main(int argc, char** argv) {
+int main(int argc, char** argv)
+{
     string github_username = get_github_username();
     cout << "C++:    " << github_username << endl;
 

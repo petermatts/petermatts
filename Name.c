@@ -3,7 +3,8 @@
 #include <string.h>
 #include <ctype.h>
 
-void get_github_username() {
+void get_github_username()
+{
     char name[] = "Matthew Peters";
 
     for(int i = 0; name[i]; i++) {

@@ -59,7 +59,7 @@ public static String username() {
 UMass Amherst Class of 2024
 
 - Double Major: Computer Science and Mathematics
-- GPA: 3.952 / 4.000
+- GPA: 3.930 / 4.000
 
 Nashua (New Hampshire) High School North class of 2020
 <!-- - Rank 12/425
@@ -69,16 +69,17 @@ Nashua (New Hampshire) High School North class of 2020
 
 ## **Important Courses**
 
-| Completed                        | Current (Fall 2023)                       | Beyond (Spring 2024)                    |
-| -------------------------------- | ----------------------------------------- | --------------------------------------- |
-| Introduction to Algorithms       | Web Programming                           | Formal Language Theory                  |
-| Intro to Scientific Computing    | Machine Learning (Ph.D. Level)            | Intelligent Visual Computing            |
-| Artificial Intelligence          | Other non CS or Math Gen Eds              | Intro to Simulation                     |
-| Intro to Machine Learning        |                                           | Quantum Information Systems             |
-| Machine Learning (Grad)          |                                           |                                         |
-| Reasoning Under Uncertainty      |                                           |                                         |
-| Computer Systems Principles      |                                           |                                         |
-| Applied Cryptography             |                                           |                                         |
+| Completed                        | Current Spring 2024                     |
+| -------------------------------- | --------------------------------------- |
+| Introduction to Algorithms       | Formal Language Theory                  |
+| Intro to Scientific Computing    | Intelligent Visual Computing            |
+| Artificial Intelligence          | Intro to Simulation                     |
+| Intro to Machine Learning        | Quantum Information Systems             |
+| Machine Learning (Grad)          |                                         |
+| Machine Learning (Ph.D)          |                                         |
+| Reasoning Under Uncertainty      |                                         |
+| Computer Systems Principles      |                                         |
+| Applied Cryptography             |                                         |
 
 
 ### **Other cool/interseting courses**
@@ -86,6 +87,7 @@ Nashua (New Hampshire) High School North class of 2020
 - Using Data Structures
 - Programming with Data Structures
 - Programming Methodology
+- Web Programming
 - Intro to Computation
 - Multivariable Calculus
 - Linear Algebra

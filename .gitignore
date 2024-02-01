@@ -1,9 +1,10 @@
 *.o
 *.exe
 *.class
-*.bat
 *.cmd
 *.sh
+*.exp
+*.lib
 
 go.mod
 
