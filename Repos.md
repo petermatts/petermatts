@@ -114,7 +114,7 @@ If you use it and win you owe me a cut :)
     - Manual additions (like wikipedia?)
     - AI/webscraping?
 - Language Runtime Comparison
-  - Code up some cool algorithms (probably mathematical because math is cool) in a bunch of languages
+  - Code up some cool algorithms (probably mathematical because math is cool, or even just a gigantic loop with simple operations) in a bunch of languages
   - Plot runtime comparison between languages
   - Presents me with a good opportunity to refresh/expand my prgoramming language knowledge
   - Langs include but not limited to:
