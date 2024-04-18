@@ -79,12 +79,14 @@ If you use it and win you owe me a cut :)
 
 ### **LearningCUDA**
 
-[TODO] Description coming soon...
+Repository for toying with and learning NVidia Cuda library.
+
+Following approximately the book [CUDA By Example](https://edoras.sdsu.edu/~mthomas/docs/cuda/cuda_by_example.book.pdf).
 
 
 ## Future/Current Projects
 
-### **Current**
+### **Current** (School and work taking precedence)
 - Car Comparer
   - Web scrape car specs
   - Find a way to display data for users to make comparisons and rankings
@@ -104,7 +106,7 @@ If you use it and win you owe me a cut :)
 - Runtime Analysis Parser
   - Parse through code and generate a runtime analysis in big-O notation
   - Might be difficult but could be really cool
-- Library/documentation of all algorithms
+- Library/documentation of all algorithms (CSALGODB)
   - https://en.wikipedia.org/wiki/List_of_algorithms
   - Like a application that displays all algorithms categorized
     - number theoretic, graph, sort, etc.
@@ -127,3 +129,8 @@ If you use it and win you owe me a cut :)
     - Go
     - Ruby
     - More but I'm blanking right now
+- ML Audio detection counter for shows
+  - count the "bwomps" (or other sound effects) in Spongebob
+  - count the number of times Jeremy Clarkson says "Yeeeeees" or "Jaaaag"
+  - etc.
+  - Issue is how to get the data...
