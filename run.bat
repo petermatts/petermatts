@@ -10,4 +10,5 @@
 @call tsc -outFile Name.ts.js
 @Node Name.ts.js
 @python Name.py
+@julia Name.jl
 @go run Name.go

@@ -115,6 +115,7 @@ See [`Repos.md`](https://github.com/petermatts/petermatts/blob/main/Repos.md).
 [<img src="https://cdn.worldvectorlogo.com/logos/latex.svg" height="30px"/>](a "LaTeX")
 [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYkbGAhmcYo1cCQtJvI94pA4_g_YW6EsVJ1OkIe8moeOCvD7rmAEMz05kVN6V1ZCa0dw&usqp=CAU" height="30px"/>](a "SWIG")
 [<img src="https://cdn.worldvectorlogo.com/logos/nvidia.svg" height="30px"/>](a "CUDA")
+[<img src="https://cdn.worldvectorlogo.com/logos/julia-1.svg" height="30px"/>](a "Julia")
 [<img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" height="30px"/>](a "R")
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" width="30px"/>](a "Visual Studio Code")
