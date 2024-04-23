@@ -84,7 +84,7 @@ Repository for toying with and learning NVidia Cuda library.
 Following approximately the book [CUDA By Example](https://edoras.sdsu.edu/~mthomas/docs/cuda/cuda_by_example.book.pdf).
 
 
-## Future/Current Projects
+## Future/Current Projects and Ideas
 
 ### **Current** (School and work taking precedence)
 - Car Comparer
@@ -103,10 +103,12 @@ Following approximately the book [CUDA By Example](https://edoras.sdsu.edu/~mtho
 - Stock Analyzer
   - ML/AI
   - FFT???
+  - Learn over industry trends and individual to evaluate and predict stocks for near and maybe long term
+  - Take into account recent event biases? i.e. new and financial reports
 - Runtime Analysis Parser
   - Parse through code and generate a runtime analysis in big-O notation
   - Might be difficult but could be really cool
-- Library/documentation of all algorithms (CSALGODB)
+- Library/documentation of all algorithms (CSALGODB potential name?)
   - https://en.wikipedia.org/wiki/List_of_algorithms
   - Like a application that displays all algorithms categorized
     - number theoretic, graph, sort, etc.
@@ -134,3 +136,9 @@ Following approximately the book [CUDA By Example](https://edoras.sdsu.edu/~mtho
   - count the number of times Jeremy Clarkson says "Yeeeeees" or "Jaaaag"
   - etc.
   - Issue is how to get the data...
+- ML Rubiks cube solver
+  - See how well we can train a machine learning model to solve a Rubik's cube
+  - Use the WCA scramble generator to generate scrambled cube states for training, validation, and testing
+  - Use neuralnets/transformers + reinforcement learning?
+  - Potential difficulties
+    - Measuring loss/distance from solved state (We know God's number is O(20) but a particular state will be difficult to evaluate)
