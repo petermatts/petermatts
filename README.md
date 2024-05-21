@@ -56,30 +56,31 @@ public static String username() {
 
 ### **Education**
 
-UMass Amherst Class of 2024
+UMass Amherst 2025 M.S. in Computer Science
 
-- Double Major: Computer Science and Mathematics
-- GPA: 3.930 / 4.000
+UMass Amherst 2024 B.S. in Computer Science and Mathematics
 
 Nashua (New Hampshire) High School North class of 2020
-<!-- - Rank 12/425
-- GPA: 4.84/5.40 -->
 
 <!-- Separate tables by math vs cs classes? -->
 
 ## **Important Courses**
-
-| Completed                        | Current Spring 2024                     |
-| -------------------------------- | --------------------------------------- |
-| Introduction to Algorithms       | Formal Language Theory                  |
-| Intro to Scientific Computing    | Intelligent Visual Computing            |
-| Artificial Intelligence          | Intro to Simulation                     |
-| Intro to Machine Learning        | Quantum Information Systems             |
-| Machine Learning (Grad)          |                                         |
-| Machine Learning (Ph.D)          |                                         |
-| Reasoning Under Uncertainty      |                                         |
-| Computer Systems Principles      |                                         |
-| Applied Cryptography             |                                         |
+       
+| Completed                               | Upcoming Fall 2024                      |
+| --------------------------------------- | --------------------------------------- |
+| Introduction to Algorithms              | Quantum Information Systems (Grad)      |
+| Intro to Scientific Computing           | Reinforcement Learning                  |
+| Artificial Intelligence                 | Computer Vision                         |
+| Intro to Machine Learning               |                                         |
+| Machine Learning (Grad)                 |                                         |
+| Machine Learning (Ph.D)                 |                                         |
+| Reasoning Under Uncertainty             |                                         |
+| Computer Systems Principles             |                                         |
+| Applied Cryptography                    |                                         |
+| Formal Language Theory                  |                                         |
+| Intelligent Visual Computing            |                                         |
+| Intro to Simulation                     |                                         |
+| Quantum Information Systems (Undergrad) |                                         |
 
 
 ### **Other cool/interseting courses**
