@@ -36,9 +36,21 @@ I made this for my girlfriend ❤️
 
 ### **CarStats**
 
-A python code project that will (still under construction in my free time) web scrape car specifications from the reliable [www.caranddriver.com](https://caranddriver.com).
+A python code project that will (still under construction in my free time) web scrape car specifications from the awesome [www.caranddriver.com](https://caranddriver.com).
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=petermatts&repo=CarStats)](https://github.com/petermatts/CarStats)
+
+### **LotterySim**
+
+Webscrapes popular lotteries like the Powerball or Megamillions for number frequencies and computes statistics on this data to generate which numbers (should) be most likely to come up soon, if any.
+
+Upcoming features: better data saving which will lead to new statistical and ML models for this application.
+
+Repository may be made public at some point but be warned...
+
+If you use it and win you owe me a cut :)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=petermatts&repo=LotterySim)](https://github.com/petermatts/LotterySim)
 
 ### **CodeFormatter**
 
@@ -66,16 +78,6 @@ View slide on research [Crypto Research](https://docs.google.com/presentation/d/
 Repository to store all code homework/projects from my undergraduate courses at University of Massachusetts Amherst.
 
 This repository will remain private to the end of time.
-
-### **LotterySim**
-
-Webscrapes popular lotteries like the Powerball or Megamillions for number frequencies and computes statistics on this data to generate which numbers (should) be most likely to come up soon, if any.
-
-Upcoming features: better data saving which will lead to new statistical and ML models for this application.
-
-Repository may be made public at some point but be warned...
-
-If you use it and win you owe me a cut :)
 
 ### **LearningCUDA**
 
