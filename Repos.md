@@ -14,6 +14,8 @@ This file contains a deeper dive into my repositories where I even describe some
 
 ### **NFL Season Predictor**
 
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nodejs,js,react,redux,html,css,firebase&titles=true)
+
 Coding project build using React and JS to display NFL games and allow a user to pick a winner (and/or a loser) or even a tie.
 
 It then generates and updates a live playoffs standings/seeding for all the teams by confrence or division.
@@ -28,6 +30,8 @@ Try out the webapp [NFL Season Predictor](https://nfl-season-predictor.web.app/)
 
 ### **Heart** 
 
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python&titles=true)
+
 A Python project using the Turtle package to draw a heart and the pyinstaller package to generate the executible file to draw the heart anytime.
 
 I made this for my girlfriend ❤️
@@ -36,11 +40,15 @@ I made this for my girlfriend ❤️
 
 ### **CarStats**
 
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,selenium,yaml&titles=true)
+
 A python code project that will (still under construction in my free time) web scrape car specifications from the awesome [www.caranddriver.com](https://caranddriver.com).
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=petermatts&repo=CarStats)](https://github.com/petermatts/CarStats)
 
 ### **LotterySim**
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,pytorch,numpy,scipy,java&titles=true)
 
 Webscrapes popular lotteries like the Powerball or Megamillions for number frequencies and computes statistics on this data to generate which numbers (should) be most likely to come up soon, if any.
 
@@ -54,11 +62,13 @@ If you use it and win you owe me a cut :)
 
 ### **CodeFormatter**
 
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,ts,python&titles=true)
+
 A VS Code extension project that aims to support the development of clean well formatted code. More details coming soon/found in that repo when it becomes public.
 
-This project will be comprised of Javascript, Typescript, and (maybe) Python.
-
 ### **Crypto Research**
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,cpp,solidity&titles=true)
 
 Summer 2021 personal research project to expand my knowledge in computer science topics such as: cryptocurrencies, blockchains, cryptographic hashing, bitwise operations, and more. 
 
@@ -75,16 +85,27 @@ View slide on research [Crypto Research](https://docs.google.com/presentation/d/
 
 ### **UMASS** and related repositories
 
+![](https://go-skill-icons.vercel.app/api/icons?i=java,c,python,pytorch,numpy,sklearn,scipy,matlab,latex,js,nodejs,html,css,asm)
+
 Repository to store all code homework/projects from my undergraduate courses at University of Massachusetts Amherst.
 
-This repository will remain private to the end of time.
+This repository will remain private to the end of time as per univerity policy.
 
 ### **LearningCUDA**
 
-Repository for toying with and learning NVidia Cuda library.
+<img src="https://go-skill-icons.vercel.app/api/icons?i=cpp" alt="c++" />
+<img src="https://cdn.worldvectorlogo.com/logos/nvidia-7.svg" height="47px"/>
+
+Repository for toying with and learning NVIDIA Cuda library.
 
 Following approximately the book [CUDA By Example](https://edoras.sdsu.edu/~mthomas/docs/cuda/cuda_by_example.book.pdf).
 
+<!-- TODO add work experience icons? -->
+<!-- ### **Other Private Work**
+
+- BAE Software Itern 4 (Summer 2024)
+- BAE Software Itern 3 (Summer 2023)
+- BAE Software Itern 2 (Summer 2022) -->
 
 ## Future/Current Projects and Ideas
 
