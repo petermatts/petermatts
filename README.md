@@ -56,15 +56,15 @@ public static String username() {
 
 ### **Education**
 
-UMass Amherst 2025 M.S. in Computer Science
+- UMass Amherst 2025 M.S. in Computer Science
+- UMass Amherst 2024 B.S. in Computer Science and Mathematics
+- Nashua (New Hampshire) High School North class of 2020
 
-UMass Amherst 2024 B.S. in Computer Science and Mathematics
-
-Nashua (New Hampshire) High School North class of 2020
+Main educational focus: Machine Learning and Artificial Intelligence
 
 <!-- Separate tables by math vs cs classes? -->
 
-## **Important Courses**
+<!-- ## **Important Courses**
        
 | Completed                               | Upcoming Fall 2024                      |
 | --------------------------------------- | --------------------------------------- |
@@ -95,42 +95,105 @@ Nashua (New Hampshire) High School North class of 2020
 - Differential Equations
 - Statistics I
 - Intro to Abstract Algebra I
-- Intro to Computer Graphics
+- Intro to Computer Graphics -->
 
 ## **My Projects/Repositories**
 
 See [`Repos.md`](https://github.com/petermatts/petermatts/blob/main/Repos.md).
 
-## **Languages and Tools**
-
+## **Languages, Tools, Skills, and More!**
 <!-- Cool site for logos https://worldvectorlogo.com/ -->
+<!-- Icons from https://github.com/lelouchfr/skill-icons -->
 
-[<img src="https://cdn.freebiesupply.com/logos/large/2x/java-14-logo-png-transparent.png" height="30px" />](a "Java")
-[<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="30px" />](a "Javascript")
-[<img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" height="30px"/>](a "Typescript")
-[<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="30px" />](a "Python")
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" width="30px" />](a "C")
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" width="30px" />](a "C++")
-[<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="30px" />](a "HTML5")
-[<img src="https://tecfa.unige.ch/perso/mafritz/teaching/slides/assets/images/css3-logo.svg" height="30px"/>](a "CSS3")
-[<img src="https://cdn.worldvectorlogo.com/logos/latex.svg" height="30px"/>](a "LaTeX")
-[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYkbGAhmcYo1cCQtJvI94pA4_g_YW6EsVJ1OkIe8moeOCvD7rmAEMz05kVN6V1ZCa0dw&usqp=CAU" height="30px"/>](a "SWIG")
-[<img src="https://cdn.worldvectorlogo.com/logos/nvidia.svg" height="30px"/>](a "CUDA")
-[<img src="https://cdn.worldvectorlogo.com/logos/julia-1.svg" height="30px"/>](a "Julia")
-[<img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" height="30px"/>](a "R")
+Below is a list of languages, tools, and skills I have used. Hover the icons to see the name if you are unfamiliar with the icon logo.
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" width="30px"/>](a "Visual Studio Code")
-[<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="30px" />](a "React JS")
-[<img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" height="30px" />](a "React Native")
-[<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="30px"/>](a "Git")
-[<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="30"/>](a "GitHub")
-[<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="30px">](a "Firebase")
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png" width="30px">](a "MATLAB")
-[<img src="https://technology.howard.edu/sites/technology.howard.edu/files/styles/large/public/mathematica-logo.png?itok=sZVilQp7" width="30px">](a "Mathmatica")
-[<img src="https://www.svgrepo.com/show/354445/terminal.svg" width="30px">](a "Shell/Batch/Bash")
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Cmake.svg/2048px-Cmake.svg.png" width="30px">](a "CMake")
+### Languages
 
-*Some of the above displays are difficult to view in darkmode, hover with mouse for description*
+<!-- ![My Languages](https://go-skill-icons.vercel.app/api/icons?i=py,js,ts,c,cpp,java,matlab,julia,latex,md,bash,powershell,html,css,postgres,r,go,yaml&titles=true&perline=9) -->
+
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=py" alt="python" />](? "Python")
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=js" alt="js" />](? "Javascript")
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=ts" alt="ts" />](? "Typescript")
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=c" alt="c" />](? "C")
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=cpp" alt="c++" />](? "C++")
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=java" alt="java" />](? "Java")
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=matlab" alt="matlab" />](? "Matlab")
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=bash" alt="bash" />](? "Bash")
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=latex" alt="latex" />](? "Latex")
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=md" alt="markdown" />](? "Markdown")
+
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=julia" alt="julia" />](? "Julia")
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=yaml" alt="yaml" />](? "yaml")
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=html" alt="html" />](? "HTML")
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=css" alt="css" />](? "CSS")
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=go" alt="go" />](? "Go")
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=r" alt="r" />](? "R")
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=postgres" alt="postgressql" />](? "Postgres SQL")
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=powershell" alt="powershell" />](? "Powershell")
+
+More Languages that did not have icons in the API I used to make this.
+
+[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYkbGAhmcYo1cCQtJvI94pA4_g_YW6EsVJ1OkIe8moeOCvD7rmAEMz05kVN6V1ZCa0dw&usqp=CAU" height="35px"/>](? "SWIG")
+[<img src="https://cdn.worldvectorlogo.com/logos/nvidia-7.svg" height="35px"/>](? "CUDA")
+[<img src="https://technology.howard.edu/sites/technology.howard.edu/files/styles/large/public/mathematica-logo.png?itok=sZVilQp7" width="35px">](? "Mathmatica")
+
+
+### Libraries
+
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch" alt="pytorch" />](https://github.com/petermatts "PyTorch")
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy" alt="numpy" />](? "Numpy")
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=matplotlib" alt="matplotlib" />](? "Matplotlib")
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=sklearn" alt="sklearn" />](? "Scikit-Learn")
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=scipy" alt="scipy" />](? "Scipy")
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=tensorflow" alt="tensorflow" />](? "Tensorflow")
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=regex" alt="regex" />](? "Regex")
+
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas" alt="pandas" />](? "pandas")
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=selenium" alt="selenium" />](? "Selenium")
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs" alt="nodejs" />](? "NodeJS")
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=firebase" alt="firebase" />](? "Firebase")
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=react" alt="react" />](? "React & React Native")
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=redux" alt="redux" />](? "Redux")
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=threejs" alt="threejs" />](? "ThreeJS")
+
+### Tools
+
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=git" alt="git" />](? "Git")
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=github" alt="github" />](? "Github")
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=gitlab" alt="gitlab" />](? "Gitlab")
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=bitbucket" alt="bitbucket" />](? "Bitbucket")
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=githubactions" alt="githubactions" />](? "CI/CD")
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=jira" alt="jira" />](? "Jira")
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=jenkins" alt="jenkins" />](? "Jenkins")
+
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=vscode" alt="vscode" />](? "VSCode")
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=visualstudio" alt="visualstudio" />](? "Visual Studio")
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=atom" alt="atom" />](? "Atom")
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=desmos" alt="desmos" />](? "Desmos")
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=androidstudio" alt="andriodstudio" />](? "Android Studio")
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=xcode" alt="xcode" />](? "XCode")
+
+### Other
+
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=chrome" alt="chrome" />](? "Google Workspace")
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=word" alt="word" />](? "Microsoft Word")
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=excel" alt="excel" />](? "Microsoft Excel")
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=powerpoint" alt="powerpoint" />](? "Microsoft Powerpoint")
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=apple" alt="apple" />](? "MacOS")
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=linux" alt="linux" />](? "Linux")
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=windows" alt="windows" />](? "Windows")
+
+### Profiles/Contact
+
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=github" alt="github" />](? "petermatts")
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" alt="linkedin" />](https://www.linkedin.com/in/matthew-s-peters/ "Matthew Peters")
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=instagram" alt="python" />](https://www.instagram.com/pete.matt/ "pete.matt")
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=discord" alt="discord" />](? "petermatts")
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" alt="gmail" />](? "mpeters0514@gmail.com")
+
+<!-- ## Fun Facts/More about me
+
+Did you know that on windows the keyboard short cut `ctrl+alt+shift+windows+L` automattically takes you to LinkedIn in your browser? -->
 
 ## GitHub Data
 
