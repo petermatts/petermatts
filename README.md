@@ -197,7 +197,8 @@ Did you know that on windows the keyboard short cut `ctrl+alt+shift+windows+L` a
 
 ## GitHub Data
 
-![](./github-metrics.svg)
+![Metrics](./github-metrics.svg)
+![Calendar](./metrics.plugin.calendar.svg)
 
 <!-- removed Jupyter Notebook and LaTeX -->
 [![Top Languages](https://github-readme-stats-petermatts.vercel.app/api/top-langs/?username=petermatts&layout=compact&langs_count=10&hide_border=true&hide=Solidity,M,Makefile,Jupyter+Notebook,Tex,NetLogo)](https://github.com/petermatts)
