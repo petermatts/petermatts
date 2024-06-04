@@ -93,8 +93,7 @@ This repository will remain private to the end of time as per univerity policy.
 
 ### **LearningCUDA**
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=cpp" alt="c++" />
-<img src="https://cdn.worldvectorlogo.com/logos/nvidia-7.svg" height="47px"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=cpp" alt="c++" /><img src="https://cdn.worldvectorlogo.com/logos/nvidia-7.svg" height="47px"/>
 
 Repository for toying with and learning NVIDIA Cuda library.
 
