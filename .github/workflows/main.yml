@@ -15,20 +15,20 @@ jobs:
             contents: write
         steps:
             - uses: lowlighter/metrics@latest
-                with:
+              with:
                     filename: Metrics/Calendar.svg
                     token: ${{ secrets.METRICS_TOKEN }}
                     base: ""
                     plugin_calendar: yes
             - uses: lowlighter/metrics@latest
-                with:
+              with:
                     filename: Metrics/FullCalendar.svg
                     token: ${{ secrets.METRICS_TOKEN }}
                     base: ""
                     plugin_calendar: yes
                     plugin_calendar_limit: 0
             - uses: lowlighter/metrics@latest
-                with:
+              with:
                     filename: Metrics/Languages.svg
                     token: ${{ secrets.METRICS_TOKEN }}
                     base: ""
