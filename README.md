@@ -191,11 +191,15 @@ More Languages that did not have icons in the API I used to make this.
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=discord" alt="discord" />](? "petermatts")
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" alt="gmail" />](? "mpeters0514@gmail.com")
 
-<!-- ## Fun Facts/More about me
+## Fun Facts/More about me
 
-Did you know that on windows the keyboard short cut `ctrl+alt+shift+windows+L` automattically takes you to LinkedIn in your browser? -->
+Did you know that on windows the keyboard short cut `ctrl+alt+shift+windows+L` automattically takes you to LinkedIn in your browser?
+
+More coming soon
 
 ## GitHub Data
+
+<!-- Refer to https://github.com/marketplace/actions/metrics-embed for more metrics svg stuff -->
 
 ![Metrics](Metrics/Metrics.svg)
 <!-- ![Languages](Metrics/Languages.svg) -->
