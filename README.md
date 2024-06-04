@@ -197,13 +197,13 @@ Did you know that on windows the keyboard short cut `ctrl+alt+shift+windows+L` a
 
 ## GitHub Data
 
-![Metrics](./github-metrics.svg)
-![Calendar](./metrics.plugin.calendar.svg)
+<!-- ![Metrics](./github-metrics.svg)
+![Calendar](./metrics.plugin.calendar.svg) -->
 
 <!-- removed Jupyter Notebook and LaTeX -->
-[![Top Languages](https://github-readme-stats-petermatts.vercel.app/api/top-langs/?username=petermatts&layout=compact&langs_count=10&hide_border=true&hide=Solidity,M,Makefile,Jupyter+Notebook,Tex,NetLogo?theme=transparent)](https://github.com/petermatts)
+[![Top Languages](https://github-readme-stats-petermatts.vercel.app/api/top-langs/?username=petermatts&layout=compact&langs_count=10&hide_border=true&theme=transparent&hide=Solidity,M,Makefile,Jupyter+Notebook,Tex,NetLogo)](https://github.com/petermatts)
 
-<img align="left" alt="petermatts' Github Stats" src="https://github-readme-stats-petermatts.vercel.app/api?username=petermatts&show_icons=true&hide_border=true&hide_rank=true">
+<!-- <img align="left" alt="petermatts' Github Stats" src="https://github-readme-stats-petermatts.vercel.app/api?username=petermatts&show_icons=true&hide_border=true&hide_rank=true"> -->
 
 <!-- Shows rank -->
 <!-- <img align="left" alt="petermatts' Github Stats" src="https://github-readme-stats-petermatts.vercel.app/api?username=petermatts&show_icons=true&hide_border=true"> -->
