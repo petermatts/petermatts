@@ -26,7 +26,7 @@ I was like I want to be able to do that but could not find anything online. So I
 
 Try out the webapp [NFL Season Predictor](https://nfl-season-predictor.web.app/)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=petermatts&repo=nfl-season-predictor)](https://github.com/petermatts/nfl-season-predictor)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=petermatts&theme=transparent&repo=nfl-season-predictor)](https://github.com/petermatts/nfl-season-predictor)
 
 ### **Heart** 
 
@@ -36,7 +36,7 @@ A Python project using the Turtle package to draw a heart and the pyinstaller pa
 
 I made this for my girlfriend ❤️
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=petermatts&repo=Heart)](https://github.com/petermatts/Heart)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=petermatts&theme=transparent&repo=Heart)](https://github.com/petermatts/Heart)
 
 ### **CarStats**
 
@@ -44,13 +44,13 @@ I made this for my girlfriend ❤️
 
 A python code project that will (still under construction in my free time) web scrape car specifications from the awesome [www.caranddriver.com](https://caranddriver.com).
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=petermatts&repo=CarStats)](https://github.com/petermatts/CarStats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=petermatts&theme=transparent&repo=CarStats)](https://github.com/petermatts/CarStats)
 
 ### **LotterySim**
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,pytorch,numpy,scipy,java&titles=true)
 
-Webscrapes popular lotteries like the Powerball or Megamillions for number frequencies and computes statistics on this data to generate which numbers (should) be most likely to come up soon, if any.
+Webscrapes popular lotteries like the Powerball or Megamillions for number frequencies and computes statistics on this data to generate which numbers (should) be most likely to come up soon, if any. Java was used previously in older code for this project but has since been removed in favor of python.
 
 Upcoming features: better data saving which will lead to new statistical and ML models for this application.
 
@@ -58,13 +58,15 @@ Repository may be made public at some point but be warned...
 
 If you use it and win you owe me a cut :)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=petermatts&repo=LotterySim)](https://github.com/petermatts/LotterySim)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=petermatts&theme=transparent&repo=LotterySim)](https://github.com/petermatts/LotterySim)
 
 ### **CodeFormatter**
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,ts,python&titles=true)
 
 A VS Code extension project that aims to support the development of clean well formatted code. More details coming soon/found in that repo when it becomes public.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=petermatts&theme=transparent&repo=CodeFormatter)](https://github.com/petermatts/CodeFormatter)
 
 ### **Crypto Research**
 
@@ -78,7 +80,7 @@ In my learning I attempted implementing the beginings of code that would compris
 
 View slide on research [Crypto Research](https://docs.google.com/presentation/d/1A-kybBkG2lw1iO6qyywTAImklQ_yI9XctO-q7yy05p0/edit?usp=sharing)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=petermatts&repo=Crypto-Research)](https://github.com/petermatts/Crypto-Research)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=petermatts&theme=transparent&repo=Crypto-Research)](https://github.com/petermatts/Crypto-Research)
 
 
 ## Private Repos
@@ -99,6 +101,15 @@ Repository for toying with and learning NVIDIA Cuda library.
 
 Following approximately the book [CUDA By Example](https://edoras.sdsu.edu/~mthomas/docs/cuda/cuda_by_example.book.pdf).
 
+## **StockAnalyzer**
+
+![](https://go-skill-icons.vercel.app/api/icons?i=python,pytorch,numpy)
+
+
+A project with the goal of modeling stock exchange tickers using machine learning and fourier analysis (over both short and longterm). A few Ideas I have to further improve the performance/projections is to take into account recent event biases, perhaps by analyzing news articles that refer to a certain ticker or its market. These kinds of ML models (article analysis) do exist, I worked on one as part of a final project in my junoir year of my undergrad.
+
+Still in early stages of development.
+
 <!-- TODO add work experience icons? -->
 <!-- ### **Other Private Work**
 
@@ -106,27 +117,8 @@ Following approximately the book [CUDA By Example](https://edoras.sdsu.edu/~mtho
 - BAE Software Itern 3 (Summer 2023)
 - BAE Software Itern 2 (Summer 2022) -->
 
-## Future/Current Projects and Ideas
+## Future Projects and Ideas
 
-### **Current** (School and work taking precedence)
-- Car Comparer
-  - Web scrape car specs
-  - Find a way to display data for users to make comparisons and rankings
-  - For fun or possibly help making decisions on a purchase
-- Lottery Sim/Prob calculator
-  - Scrape lottery drawing histories (powerball and megamillions) 
-  - Do statistical analysis and simulate drawings
-- Code Formatter
-  - VS Code extension
-  - Will support proper code styling i.e. spacing and indentation and more
-  - Still in early stages of developement
-
-### **Future**
-- Stock Analyzer
-  - ML/AI
-  - FFT???
-  - Learn over industry trends and individual to evaluate and predict stocks for near and maybe long term
-  - Take into account recent event biases? i.e. new and financial reports
 - Runtime Analysis Parser
   - Parse through code and generate a runtime analysis in big-O notation
   - Might be difficult but could be really cool

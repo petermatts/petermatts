@@ -193,9 +193,11 @@ More Languages that did not have icons in the API I used to make this.
 
 ## Fun Facts/More about me
 
-Did you know that on windows the keyboard short cut `ctrl+alt+shift+windows+L` automattically takes you to LinkedIn in your browser?
+- Did you know that on windows the keyboard short cut `ctrl+alt+shift+windows+L` automattically takes you to LinkedIn in your browser?
 
-More coming soon
+- Did you know that Desmos uses Latex? So you can copy a raw Latex formula into desmos without needing to retype the whole thing.
+
+- More coming soon
 
 ## GitHub Data
 
