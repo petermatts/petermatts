@@ -114,11 +114,23 @@ Still in early stages of development.
 <!-- ### **Other Private Work**
 
 - BAE Software Itern 4 (Summer 2024)
+
+  ![](https://go-skill-icons.vercel.app/api/icons?i=python,pandas,matplotlib,c,powershell)
+
 - BAE Software Itern 3 (Summer 2023)
-- BAE Software Itern 2 (Summer 2022) -->
+  
+  ![](https://go-skill-icons.vercel.app/api/icons?i=bash,c,githubactions,gitlab,bitbucket,jenkins,java)
+
+- BAE Software Itern 2 (Summer 2022)
+  
+  ![](https://go-skill-icons.vercel.app/api/icons?i=cpp,java,python,linux,bash) [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYkbGAhmcYo1cCQtJvI94pA4_g_YW6EsVJ1OkIe8moeOCvD7rmAEMz05kVN6V1ZCa0dw&usqp=CAU" height="48px"/>](?) -->
 
 ## Future Projects and Ideas
-
+- Matlab QNN expirement, see if a QNN (Quantum Neural Network) can learn both linear and non linear data
+  - run expirement along the lines of this [link](https://www.mathworks.com/help/matlab/math/solve-xor-problem-using-quantum-neural-network.html) from Mathworks.
+  - play around with and learn the Matlab deep learning tool box
+  - Expirement with the Matlab generate ML code in C++/CUDA, and try running those
+  - The plus of this idea is it should not be too intensive
 - Runtime Analysis Parser
   - Parse through code and generate a runtime analysis in big-O notation
   - Might be difficult but could be really cool

@@ -20,7 +20,7 @@ jobs:
                   token: ${{ secrets.METRICS_TOKEN }}
                   base: header, repositories, activity
                   plugin_lines: yes
-                  plugin_lines_delay: 60
+                  plugin_lines_delay: 120
             - uses: lowlighter/metrics@latest
               with:
                   filename: Metrics/Calendar.svg
