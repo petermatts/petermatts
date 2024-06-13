@@ -120,7 +120,6 @@ Below is a list of languages, tools, and skills I have used. Hover the icons to 
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=matlab" alt="matlab" />](? "Matlab")
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=bash" alt="bash" />](? "Bash")
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=latex" alt="latex" />](? "Latex")
-[<img src="https://go-skill-icons.vercel.app/api/icons?i=md" alt="markdown" />](? "Markdown")
 
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=julia" alt="julia" />](? "Julia")
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=yaml" alt="yaml" />](? "yaml")
@@ -130,6 +129,7 @@ Below is a list of languages, tools, and skills I have used. Hover the icons to 
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=r" alt="r" />](? "R")
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=postgres" alt="postgressql" />](? "Postgres SQL")
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=powershell" alt="powershell" />](? "Powershell")
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=md" alt="markdown" />](? "Markdown")
 
 More Languages that did not have icons in the API I used to make this.
 
