@@ -15,12 +15,16 @@ jobs:
             contents: write
         steps:
             - uses: lowlighter/metrics@latest
+            - name: General Metrics
+              #   uses: lowlighter/metrics@latest
               with:
                   filename: Metrics/Metrics.svg
                   token: ${{ secrets.METRICS_TOKEN }}
                   base: header, repositories, activity
                   plugin_lines: yes
                   plugin_lines_delay: 120
+            - name: General Metrics
+              #   uses: lowlighter/metrics@latest
               with:
                   filename: Metrics/FullCalendar.svg
                   token: ${{ secrets.METRICS_TOKEN }}
