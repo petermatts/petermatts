@@ -13,24 +13,26 @@ jobs:
             name: production
         permissions:
             contents: write
+            pull-requests: write
         steps:
-            - uses: lowlighter/metrics@latest
             - name: General Metrics
-              #   uses: lowlighter/metrics@latest
+              uses: lowlighter/metrics@latest
               with:
                   filename: Metrics/Metrics.svg
                   token: ${{ secrets.METRICS_TOKEN }}
                   base: header, repositories, activity
                   plugin_lines: yes
                   plugin_lines_delay: 120
-            - name: General Metrics
-              #   uses: lowlighter/metrics@latest
+                  output_action: pull-request
+            - name: Calendar Metrics
+              uses: lowlighter/metrics@latest
               with:
                   filename: Metrics/FullCalendar.svg
                   token: ${{ secrets.METRICS_TOKEN }}
                   base: ""
                   plugin_calendar: yes
                   plugin_calendar_limit: 0
+                  output_action: pull-request-merge
 
             # - uses: lowlighter/metrics@latest
             #   with:
