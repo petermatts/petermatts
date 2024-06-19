@@ -133,9 +133,10 @@ Below is a list of languages, tools, and skills I have used. Hover the icons to 
 
 More Languages that did not have icons in the API I used to make this.
 
-[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYkbGAhmcYo1cCQtJvI94pA4_g_YW6EsVJ1OkIe8moeOCvD7rmAEMz05kVN6V1ZCa0dw&usqp=CAU" height="35px"/>](? "SWIG")
-[<img src="https://cdn.worldvectorlogo.com/logos/nvidia-7.svg" height="35px"/>](? "CUDA")
-[<img src="https://technology.howard.edu/sites/technology.howard.edu/files/styles/large/public/mathematica-logo.png?itok=sZVilQp7" width="35px">](? "Mathmatica")
+[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYkbGAhmcYo1cCQtJvI94pA4_g_YW6EsVJ1OkIe8moeOCvD7rmAEMz05kVN6V1ZCa0dw&usqp=CAU" height="40px"/>](? "SWIG")
+[<img src="https://cdn.worldvectorlogo.com/logos/nvidia-7.svg" height="40px"/>](? "CUDA")
+[<img src="https://technology.howard.edu/sites/technology.howard.edu/files/styles/large/public/mathematica-logo.png?itok=sZVilQp7" width="40px">](? "Mathmatica")
+[<img src="https://avatars.githubusercontent.com/u/1300762?v=4" height="40px"/>](? "Doxygen")
 
 
 ### Libraries
@@ -165,6 +166,7 @@ More Languages that did not have icons in the API I used to make this.
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=githubactions" alt="githubactions" />](? "CI/CD")
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=jira" alt="jira" />](? "Jira")
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=jenkins" alt="jenkins" />](? "Jenkins")
+<!-- [<img src="https://go-skill-icons.vercel.app/api/icons?i=cmake" alt="cmake" />](? "CMake") -->
 
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=vscode" alt="vscode" />](? "VSCode")
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=visualstudio" alt="visualstudio" />](? "Visual Studio")
