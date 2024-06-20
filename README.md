@@ -164,10 +164,10 @@ More Languages that did not have icons in the API I used to make this.
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=gitlab" alt="gitlab" />](? "Gitlab")
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=bitbucket" alt="bitbucket" />](? "Bitbucket")
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=githubactions" alt="githubactions" />](? "CI/CD")
-[<img src="https://go-skill-icons.vercel.app/api/icons?i=jira" alt="jira" />](? "Jira")
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=jenkins" alt="jenkins" />](? "Jenkins")
-<!-- [<img src="https://go-skill-icons.vercel.app/api/icons?i=cmake" alt="cmake" />](? "CMake") -->
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=cmake" alt="cmake" />](? "CMake")
 
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=jira" alt="jira" />](? "Jira")
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=vscode" alt="vscode" />](? "VSCode")
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=visualstudio" alt="visualstudio" />](? "Visual Studio")
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=atom" alt="atom" />](? "Atom")
