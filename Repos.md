@@ -40,7 +40,7 @@ I made this for my girlfriend ❤️
 
 ### **CarStats**
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,selenium,yaml&titles=true)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,selenium,yaml,regex&titles=true)
 
 A python code project that will (still under construction in my free time) web scrape car specifications from the awesome [www.caranddriver.com](https://caranddriver.com).
 
@@ -62,25 +62,11 @@ If you use it and win you owe me a cut :)
 
 ### **CodeFormatter**
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,ts,python&titles=true)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,ts,python,vscode&titles=true)
 
 A VS Code extension project that aims to support the development of clean well formatted code. More details coming soon/found in that repo when it becomes public.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=petermatts&theme=transparent&repo=CodeFormatter)](https://github.com/petermatts/CodeFormatter)
-
-### **Crypto Research**
-
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,cpp,solidity&titles=true)
-
-Summer 2021 personal research project to expand my knowledge in computer science topics such as: cryptocurrencies, blockchains, cryptographic hashing, bitwise operations, and more. 
-
-There is a link to a breif google slides on what cryptocurrencies are, how they work, and their practicality of them being used as a medium of exchange moving forward, attached to the heading of this project section.
-
-In my learning I attempted implementing the beginings of code that would comprise a cryptocurrency. Including API usage and a coded version of the SHA-256 algorithm in both Java and C++. This can all be viewed in the repository below.
-
-View slide on research [Crypto Research](https://docs.google.com/presentation/d/1A-kybBkG2lw1iO6qyywTAImklQ_yI9XctO-q7yy05p0/edit?usp=sharing)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=petermatts&theme=transparent&repo=Crypto-Research)](https://github.com/petermatts/Crypto-Research)
 
 
 ## Private Repos
@@ -93,13 +79,55 @@ Repository to store all code homework/projects from my undergraduate courses at 
 
 This repository will remain private to the end of time as per univerity policy.
 
-### **LearningCUDA**
+### **Learning**
 
+My general pupose self skill learning repository containing subprojects each aiming to develope a new skill with a tool/concept.
+
+All subprojects were initially hosted each as their own git repository on my profile. However, for cleanliness of my github account I opted to combine all my self-taught learning skills projects into one repository, this one. :)
+
+**LearningCUDA**
+<ul>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp" alt="c++" /><img src="https://cdn.worldvectorlogo.com/logos/nvidia-7.svg" height="47px"/>
 
-Repository for toying with and learning NVIDIA Cuda library.
+Toying with and learning NVIDIA Cuda library.
 
 Following approximately the book [CUDA By Example](https://edoras.sdsu.edu/~mthomas/docs/cuda/cuda_by_example.book.pdf).
+</ul>
+
+**LearningCMake**
+
+<ul>
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cmake,cpp&titles=true)
+
+In this subproject I am working with the CMake tool to develope my skill in CMake to apply it in a professional setting at work.
+
+</ul>
+
+**LearningC-Cpp**
+<ul>
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,cpp&titles=true)
+
+My code taking the C/C++specialization on Coursera taught by Ira Pohl.
+
+</ul>
+
+**Crypto Research**
+
+<ul>
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,cpp,solidity&titles=true)
+
+Summer 2021 personal research project to expand my knowledge in computer science topics such as: cryptocurrencies, blockchains, cryptographic hashing, bitwise operations, and more. 
+
+There is a link to a breif google slides on what cryptocurrencies are, how they work, and their practicality of them being used as a medium of exchange moving forward, attached to the heading of this project section.
+
+In my learning I attempted implementing the beginings of code that would comprise a cryptocurrency. Including API usage and a coded version of the SHA-256 algorithm in both Java and C++. This can all be viewed in the repository below.
+
+View slide on research [Crypto Research](https://docs.google.com/presentation/d/1A-kybBkG2lw1iO6qyywTAImklQ_yI9XctO-q7yy05p0/edit?usp=sharing)
+</ul>
+
 
 ## **StockAnalyzer**
 
@@ -111,17 +139,17 @@ A project with the goal of modeling stock exchange tickers using machine learnin
 Still in early stages of development.
 
 <!-- TODO add work experience icons? -->
-<!-- ### **Other Private Work**
+<!-- ### **Other Work Experience**
 
-- BAE Software Itern 4 (Summer 2024)
+- BAE Systems Software Itnern 4 (Summer 2024)
 
-  ![](https://go-skill-icons.vercel.app/api/icons?i=python,pandas,matplotlib,c,powershell)
+  ![](https://go-skill-icons.vercel.app/api/icons?i=python,pandas,matplotlib,numpy,c,cmake,powershell)
 
-- BAE Software Itern 3 (Summer 2023)
+- BAE Systems Software Itnern 3 (Summer 2023)
   
   ![](https://go-skill-icons.vercel.app/api/icons?i=bash,c,githubactions,gitlab,bitbucket,jenkins,java)
 
-- BAE Software Itern 2 (Summer 2022)
+- BAE Systems Software Itnern 2 (Summer 2022)
   
   ![](https://go-skill-icons.vercel.app/api/icons?i=cpp,java,python,linux,bash) [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYkbGAhmcYo1cCQtJvI94pA4_g_YW6EsVJ1OkIe8moeOCvD7rmAEMz05kVN6V1ZCa0dw&usqp=CAU" height="48px"/>](?) -->
 
