@@ -22,7 +22,7 @@ jobs:
                   token: ${{ secrets.METRICS_TOKEN }}
                   base: header, repositories, activity
                   plugin_lines: yes
-                  plugin_lines_delay: 120
+                  plugin_lines_delay: 300
             - name: Calendar Metrics
               uses: lowlighter/metrics@latest
               with:

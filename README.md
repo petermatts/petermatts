@@ -99,7 +99,7 @@ Main educational focus: Machine Learning and Artificial Intelligence
 
 ## **My Projects/Repositories**
 
-See [`Repos.md`](https://github.com/petermatts/petermatts/blob/main/Repos.md).
+For much greater detail into my past and current projects (both public and private) as well as my future ideas, see [`Repos.md`](https://github.com/petermatts/petermatts/blob/main/Repos.md) for more information.
 
 ## **Languages, Tools, Skills, and More!**
 <!-- Cool site for logos https://worldvectorlogo.com/ -->
@@ -198,6 +198,8 @@ More Languages that did not have icons in the API I used to make this.
 - Did you know that on windows the keyboard short cut `ctrl+alt+shift+windows+L` automattically takes you to LinkedIn in your browser?
 
 - Did you know that Desmos uses Latex? So you can copy a raw Latex formula into desmos without needing to retype the whole thing.
+
+- Did you know that someone took the time and effort to create https://guthib.com incase you accidentally spell github incorrectly?
 
 - More coming soon
 

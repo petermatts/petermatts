@@ -26,7 +26,7 @@ I was like I want to be able to do that but could not find anything online. So I
 
 Try out the webapp [NFL Season Predictor](https://nfl-season-predictor.web.app/)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=petermatts&theme=transparent&repo=nfl-season-predictor)](https://github.com/petermatts/nfl-season-predictor)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=petermatts&theme=transparent&repo=nfl-season-predictor)](https://github.com/petermatts/nfl-season-predictor) -->
 
 ### **Heart** 
 
@@ -36,7 +36,7 @@ A Python project using the Turtle package to draw a heart and the pyinstaller pa
 
 I made this for my girlfriend ❤️
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=petermatts&theme=transparent&repo=Heart)](https://github.com/petermatts/Heart)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=petermatts&theme=transparent&repo=Heart)](https://github.com/petermatts/Heart) -->
 
 ### **CarStats**
 
@@ -44,7 +44,7 @@ I made this for my girlfriend ❤️
 
 A python code project that will (still under construction in my free time) web scrape car specifications from the awesome [www.caranddriver.com](https://caranddriver.com).
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=petermatts&theme=transparent&repo=CarStats)](https://github.com/petermatts/CarStats)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=petermatts&theme=transparent&repo=CarStats)](https://github.com/petermatts/CarStats) -->
 
 ### **LotterySim**
 
@@ -58,7 +58,7 @@ Repository may be made public at some point but be warned...
 
 If you use it and win you owe me a cut :)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=petermatts&theme=transparent&repo=LotterySim)](https://github.com/petermatts/LotterySim)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=petermatts&theme=transparent&repo=LotterySim)](https://github.com/petermatts/LotterySim) -->
 
 ### **CodeFormatter**
 
@@ -66,7 +66,7 @@ If you use it and win you owe me a cut :)
 
 A VS Code extension project that aims to support the development of clean well formatted code. More details coming soon/found in that repo when it becomes public.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=petermatts&theme=transparent&repo=CodeFormatter)](https://github.com/petermatts/CodeFormatter)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=petermatts&theme=transparent&repo=CodeFormatter)](https://github.com/petermatts/CodeFormatter) -->
 
 
 ## Private Repos
@@ -78,6 +78,14 @@ A VS Code extension project that aims to support the development of clean well f
 Repository to store all code homework/projects from my undergraduate courses at University of Massachusetts Amherst.
 
 This repository will remain private to the end of time as per univerity policy.
+
+### **QNNs**
+
+![](https://go-skill-icons.vercel.app/api/icons?i=matlab)
+
+This repo aims to expirement with simulated Quantum Neural Networks (QNNs) using Parameterized Quantum Circuit (PQC) Layers. More specifically, it aims to expirement with their ability to learn linear vs nonlinear data with as few model structure changes as possible.
+
+NOTE: this repo will likely be converted to public at some point in the not too distant future
 
 ### **Learning**
 
