@@ -26,7 +26,7 @@ I was like I want to be able to do that but could not find anything online. So I
 
 Try out the webapp [NFL Season Predictor](https://nfl-season-predictor.web.app/)
 
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=petermatts&theme=transparent&repo=nfl-season-predictor)](https://github.com/petermatts/nfl-season-predictor) -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=petermatts&theme=transparent&repo=nfl-season-predictor)](https://github.com/petermatts/nfl-season-predictor)
 
 ### **Heart** 
 
@@ -36,7 +36,7 @@ A Python project using the Turtle package to draw a heart and the pyinstaller pa
 
 I made this for my girlfriend ❤️
 
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=petermatts&theme=transparent&repo=Heart)](https://github.com/petermatts/Heart) -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=petermatts&theme=transparent&repo=Heart)](https://github.com/petermatts/Heart)
 
 ### **CarStats**
 
@@ -44,7 +44,7 @@ I made this for my girlfriend ❤️
 
 A python code project that will (still under construction in my free time) web scrape car specifications from the awesome [www.caranddriver.com](https://caranddriver.com).
 
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=petermatts&theme=transparent&repo=CarStats)](https://github.com/petermatts/CarStats) -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=petermatts&theme=transparent&repo=CarStats)](https://github.com/petermatts/CarStats)
 
 ### **LotterySim**
 
@@ -58,7 +58,7 @@ Repository may be made public at some point but be warned...
 
 If you use it and win you owe me a cut :)
 
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=petermatts&theme=transparent&repo=LotterySim)](https://github.com/petermatts/LotterySim) -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=petermatts&theme=transparent&repo=LotterySim)](https://github.com/petermatts/LotterySim)
 
 ### **CodeFormatter**
 
@@ -66,7 +66,7 @@ If you use it and win you owe me a cut :)
 
 A VS Code extension project that aims to support the development of clean well formatted code. More details coming soon/found in that repo when it becomes public.
 
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=petermatts&theme=transparent&repo=CodeFormatter)](https://github.com/petermatts/CodeFormatter) -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=petermatts&theme=transparent&repo=CodeFormatter)](https://github.com/petermatts/CodeFormatter)
 
 
 ## Private Repos
@@ -162,15 +162,8 @@ Still in early stages of development.
   ![](https://go-skill-icons.vercel.app/api/icons?i=cpp,java,python,linux,bash) [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYkbGAhmcYo1cCQtJvI94pA4_g_YW6EsVJ1OkIe8moeOCvD7rmAEMz05kVN6V1ZCa0dw&usqp=CAU" height="48px"/>](?) -->
 
 ## Future Projects and Ideas
-- Matlab QNN expirement, see if a QNN (Quantum Neural Network) can learn both linear and non linear data
-  - run expirement along the lines of this [link](https://www.mathworks.com/help/matlab/math/solve-xor-problem-using-quantum-neural-network.html) from Mathworks.
-  - play around with and learn the Matlab deep learning tool box
-  - Expirement with the Matlab generate ML code in C++/CUDA, and try running those
-  - The plus of this idea is it should not be too intensive
-- Runtime Analysis Parser
-  - Parse through code and generate a runtime analysis in big-O notation
-  - Might be difficult but could be really cool
-- Library/documentation of all algorithms (CSALGODB potential name?)
+- **Algorithm Database**
+  - Library/documentation of all algorithms
   - https://en.wikipedia.org/wiki/List_of_algorithms
   - Like a application that displays all algorithms categorized
     - number theoretic, graph, sort, etc.
@@ -179,7 +172,14 @@ Still in early stages of development.
   - Need to devise a way to get all information into application
     - Manual additions (like wikipedia?)
     - AI/webscraping?
-- Language Runtime Comparison
+- **ProofAI**
+  - Develope an AI model that can derive new mathematical/computational proofs from known proven facts.
+  - Utilize a 'tree-like' structure starting from base assumptions like the [Peano Axioms](https://en.wikipedia.org/wiki/Peano_axioms) and build from there.
+  - Complication: I have no idea how to go about constructing a model for this, let alone how to gather the data.
+- **Runtime Analysis Parser**
+  - Parse through code and generate a runtime analysis in big-O notation
+  - Might be difficult but could be really cool
+- **Language Runtime Comparison**
   - Code up some cool algorithms (probably mathematical because math is cool, or even just a gigantic loop with simple operations) in a bunch of languages
   - Plot runtime comparison between languages
   - Presents me with a good opportunity to refresh/expand my prgoramming language knowledge
@@ -193,12 +193,13 @@ Still in early stages of development.
     - Go
     - Ruby
     - More but I'm blanking right now
-- ML Audio detection counter for shows
+  - This will probably be not too difficult of a project to implements. It has been widely done before though...
+- **ML Audio Detection Counter**
   - count the "bwomps" (or other sound effects) in Spongebob
   - count the number of times Jeremy Clarkson says "Yeeeeees" or "Jaaaag"
   - etc.
   - Issue is how to get the data...
-- ML Rubiks cube solver
+- **ML Rubik's Cube Solver**
   - See how well we can train a machine learning model to solve a Rubik's cube
   - Use the WCA scramble generator to generate scrambled cube states for training, validation, and testing
   - Use neuralnets/transformers + reinforcement learning?
