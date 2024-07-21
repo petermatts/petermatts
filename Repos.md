@@ -60,6 +60,14 @@ If you use it and win you owe me a cut :)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=petermatts&theme=transparent&repo=LotterySim)](https://github.com/petermatts/LotterySim)
 
+### **QNNs**
+
+![](https://go-skill-icons.vercel.app/api/icons?i=matlab)
+
+This repo aims to expirement with simulated Quantum Neural Networks (QNNs) using Parameterized Quantum Circuit (PQC) Layers. More specifically, it aims to expirement with their ability to learn linear vs nonlinear data with as few model structure changes as possible.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=petermatts&theme=transparent&repo=QNNs)](https://github.com/petermatts/QNNs)
+
 ### **CodeFormatter**
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,ts,python,vscode&titles=true)
@@ -78,14 +86,6 @@ A VS Code extension project that aims to support the development of clean well f
 Repository to store all code homework/projects from my undergraduate courses at University of Massachusetts Amherst.
 
 This repository will remain private to the end of time as per univerity policy.
-
-### **QNNs**
-
-![](https://go-skill-icons.vercel.app/api/icons?i=matlab)
-
-This repo aims to expirement with simulated Quantum Neural Networks (QNNs) using Parameterized Quantum Circuit (PQC) Layers. More specifically, it aims to expirement with their ability to learn linear vs nonlinear data with as few model structure changes as possible.
-
-NOTE: this repo will likely be converted to public at some point in the not too distant future
 
 ### **Learning**
 
