@@ -207,14 +207,6 @@ More Languages that did not have icons in the API I used to make this.
 
 <!-- Refer to https://github.com/marketplace/actions/metrics-embed for more metrics svg stuff -->
 
-![Metrics](Metrics/Metrics.svg)
-<!-- <img align="left" alt="petermatts' Github Stats" src="https://github-readme-stats-petermatts.vercel.app/api?username=petermatts&show_icons=true&theme=transparent&hide_border=true&hide_rank=true"> -->
-<!-- ![Languages](Metrics/Languages.svg) -->
-<!-- removed Jupyter Notebook and LaTeX -->
 ![Top Languages](https://github-readme-stats-petermatts.vercel.app/api/top-langs/?username=petermatts&layout=compact&langs_count=10&hide_border=true&theme=transparent&hide=Solidity,M,Makefile,Jupyter+Notebook,Tex,NetLogo)
 
-<!-- ![Calendar](Metrics/FullCalendar.svg) -->
-
-
-<!-- Shows rank -->
-<!-- <img align="left" alt="petermatts' Github Stats" src="https://github-readme-stats-petermatts.vercel.app/api?username=petermatts&show_icons=true&hide_border=true"> -->
+![Metrics](Metrics/Metrics.svg)
