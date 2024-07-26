@@ -15,37 +15,35 @@ jobs:
         permissions:
             contents: write
         steps:
-        - uses: lowlighter/metrics@latest
-            with:
-            # Your GitHub token
-            # The following scopes are required:
-            #  - public_access (default scope)
-            # The following additional scopes may be required:
-            #  - read:org      (for organization related metrics)
-            #  - read:user     (for user related data)
-            #  - read:packages (for some packages related data)
-            #  - repo          (optional, if you want to include private repositories)
-            token: ${{ secrets.METRICS_TOKEN }}
+            - uses: lowlighter/metrics@latest
+              with:
+                  # Your GitHub token
+                  # The following scopes are required:
+                  #  - public_access (default scope)
+                  # The following additional scopes may be required:
+                  #  - read:org      (for organization related metrics)
+                  #  - read:user     (for user related data)
+                  #  - read:packages (for some packages related data)
+                  #  - repo          (optional, if you want to include private repositories)
+                  token: ${{ secrets.METRICS_TOKEN }}
+                  filename: Metrics/Metrics.svg
 
-            filename: Metrics/Metrics.svg
-
-            # Options
-            template: classic
-            base: header, activity, community, repositories, metadata
-            config_timezone: America/New_York
-            plugin_calendar: yes
-            plugin_calendar_limit: 0
-            plugin_habits: yes
-            plugin_habits_charts: yes
-            plugin_habits_charts_type: classic
-            plugin_habits_days: 10000
-            plugin_habits_facts: yes
-            plugin_habits_from: 1000
-            plugin_habits_languages_limit: 8
-            plugin_habits_languages_threshold: 0%
-            plugin_lines: yes
-            plugin_lines_delay: 300
-            plugin_lines_history_limit: 10
-            plugin_lines_repositories_limit: 20
-            plugin_lines_sections: base
-            
+                  # Options
+                  template: classic
+                  base: header, activity, community, repositories, metadata
+                  config_timezone: America/New_York
+                  plugin_calendar: yes
+                  plugin_calendar_limit: 0
+                  plugin_habits: yes
+                  plugin_habits_charts: yes
+                  plugin_habits_charts_type: classic
+                  plugin_habits_days: 10000
+                  plugin_habits_facts: yes
+                  plugin_habits_from: 1000
+                  plugin_habits_languages_limit: 8
+                  plugin_habits_languages_threshold: 0%
+                  plugin_lines: yes
+                  plugin_lines_delay: 300
+                  plugin_lines_history_limit: 10
+                  plugin_lines_repositories_limit: 20
+                  plugin_lines_sections: base
