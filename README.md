@@ -118,23 +118,27 @@ Below is a list of languages, tools, and skills I have used. Hover the icons to 
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=cpp" alt="c++" />](? "C++")
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=java" alt="java" />](? "Java")
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=matlab" alt="matlab" />](? "Matlab")
-[<img src="https://go-skill-icons.vercel.app/api/icons?i=bash" alt="bash" />](? "Bash")
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=cuda" alt="cuda" />](? "CUDA")
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=latex" alt="latex" />](? "Latex")
-
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=julia" alt="julia" />](? "Julia")
+
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=yaml" alt="yaml" />](? "yaml")
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=html" alt="html" />](? "HTML")
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=css" alt="css" />](? "CSS")
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=go" alt="go" />](? "Go")
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=r" alt="r" />](? "R")
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=postgres" alt="postgressql" />](? "Postgres SQL")
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=bash" alt="bash" />](? "Bash")
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=powershell" alt="powershell" />](? "Powershell")
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=terminal" alt="terminal" />](? "Batch")
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=md" alt="markdown" />](? "Markdown")
+
+<!-- [<img src="https://go-skill-icons.vercel.app/api/icons?i=cmake" alt="cmake" />](? "cmake")
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=docker" alt="docker" />](? "Docker") -->
 
 More Languages that did not have icons in the API I used to make this.
 
 [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYkbGAhmcYo1cCQtJvI94pA4_g_YW6EsVJ1OkIe8moeOCvD7rmAEMz05kVN6V1ZCa0dw&usqp=CAU" height="40px"/>](? "SWIG")
-[<img src="https://cdn.worldvectorlogo.com/logos/nvidia-7.svg" height="40px"/>](? "CUDA")
 [<img src="https://technology.howard.edu/sites/technology.howard.edu/files/styles/large/public/mathematica-logo.png?itok=sZVilQp7" width="40px">](? "Mathmatica")
 [<img src="https://avatars.githubusercontent.com/u/1300762?v=4" height="40px"/>](? "Doxygen")
 
@@ -181,6 +185,7 @@ More Languages that did not have icons in the API I used to make this.
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=word" alt="word" />](? "Microsoft Word")
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=excel" alt="excel" />](? "Microsoft Excel")
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=powerpoint" alt="powerpoint" />](? "Microsoft Powerpoint")
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=teams" alt="teams" />](? "Microsoft Teams")
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=apple" alt="apple" />](? "MacOS")
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=linux" alt="linux" />](? "Linux")
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=windows" alt="windows" />](? "Windows")
