@@ -155,7 +155,7 @@ Code I wrote for fun in highschool, while learning Java (and programming in gene
 </ul>
 
 
-## **StockAnalyzer**
+**StockAnalyzer**
 
 ![](https://go-skill-icons.vercel.app/api/icons?i=python,pytorch,numpy)
 
@@ -164,20 +164,20 @@ A project with the goal of modeling stock exchange tickers using machine learnin
 
 Still in early stages of development.
 
-<!-- TODO add work experience icons? -->
-### **Other Work Experience**
+<!-- ? uncomment work experience -->
+<!-- ## **Work Experience**
 
-- BAE Systems Software Itnern 4 (Summer 2024)
+- BAE Systems Software Intern 4 (Summer 2024)
 
   ![](https://go-skill-icons.vercel.app/api/icons?i=python,pandas,matplotlib,numpy,c,cmake,powershell,latex)  [<img src="https://avatars.githubusercontent.com/u/1300762?v=4" height="50px"/>](?)
 
-- BAE Systems Software Itnern 3 (Summer 2023)
+- BAE Systems Software Intern 3 (Summer 2023)
   
   ![](https://go-skill-icons.vercel.app/api/icons?i=bash,c,githubactions,gitlab,bitbucket,jenkins,java,gitkraken)
 
-- BAE Systems Software Itnern 2 (Summer 2022)
+- BAE Systems Software Intern 2 (Summer 2022)
   
-  ![](https://go-skill-icons.vercel.app/api/icons?i=cpp,java,python,linux,bash) [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYkbGAhmcYo1cCQtJvI94pA4_g_YW6EsVJ1OkIe8moeOCvD7rmAEMz05kVN6V1ZCa0dw&usqp=CAU" height="48px"/>](?)
+  ![](https://go-skill-icons.vercel.app/api/icons?i=cpp,java,python,linux,bash) [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYkbGAhmcYo1cCQtJvI94pA4_g_YW6EsVJ1OkIe8moeOCvD7rmAEMz05kVN6V1ZCa0dw&usqp=CAU" height="48px"/>](?) -->
 
 ## Future Projects and Ideas
 - **Algorithm Database**
