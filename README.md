@@ -133,9 +133,6 @@ Below is a list of languages, tools, and skills I have used. Hover the icons to 
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=terminal" alt="terminal" />](? "Batch")
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=md" alt="markdown" />](? "Markdown")
 
-<!-- [<img src="https://go-skill-icons.vercel.app/api/icons?i=cmake" alt="cmake" />](? "cmake")
-[<img src="https://go-skill-icons.vercel.app/api/icons?i=docker" alt="docker" />](? "Docker") -->
-
 More Languages that did not have icons in the API I used to make this.
 
 [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYkbGAhmcYo1cCQtJvI94pA4_g_YW6EsVJ1OkIe8moeOCvD7rmAEMz05kVN6V1ZCa0dw&usqp=CAU" height="40px"/>](? "SWIG")
@@ -179,6 +176,8 @@ More Languages that did not have icons in the API I used to make this.
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=androidstudio" alt="andriodstudio" />](? "Android Studio")
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=xcode" alt="xcode" />](? "XCode")
 
+<!-- [<img src="https://go-skill-icons.vercel.app/api/icons?i=docker" alt="docker" />](? "Docker") -->
+
 ### Other
 
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=chrome" alt="chrome" />](? "Google Workspace")
@@ -186,6 +185,7 @@ More Languages that did not have icons in the API I used to make this.
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=excel" alt="excel" />](? "Microsoft Excel")
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=powerpoint" alt="powerpoint" />](? "Microsoft Powerpoint")
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=teams" alt="teams" />](? "Microsoft Teams")
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=outlook" alt="outlook" />](? "Microsoft Outlook")
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=apple" alt="apple" />](? "MacOS")
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=linux" alt="linux" />](? "Linux")
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=windows" alt="windows" />](? "Windows")

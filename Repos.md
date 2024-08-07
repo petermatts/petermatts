@@ -62,7 +62,7 @@ If you use it and win you owe me a cut :)
 
 ### **QNNs**
 
-![](https://go-skill-icons.vercel.app/api/icons?i=matlab)
+![](https://go-skill-icons.vercel.app/api/icons?i=matlab,python,pandas,numpy&titles=true)
 
 This repo aims to expirement with simulated Quantum Neural Networks (QNNs) using Parameterized Quantum Circuit (PQC) Layers. More specifically, it aims to expirement with their ability to learn linear vs nonlinear data with as few model structure changes as possible.
 
@@ -95,7 +95,7 @@ All subprojects were initially hosted each as their own git repository on my pro
 
 **LearningCUDA**
 <ul>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=cpp" alt="c++" /><img src="https://cdn.worldvectorlogo.com/logos/nvidia-7.svg" height="47px"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cuda" alt="c++" />
 
 Toying with and learning NVIDIA Cuda library.
 
@@ -136,6 +136,24 @@ In my learning I attempted implementing the beginings of code that would compris
 View slide on research [Crypto Research](https://docs.google.com/presentation/d/1A-kybBkG2lw1iO6qyywTAImklQ_yI9XctO-q7yy05p0/edit?usp=sharing)
 </ul>
 
+**Graphviz**
+
+<ul>
+
+<!-- ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,cpp,solidity&titles=true) -->
+
+My code for toying around and using the GraphViz library and learning the dot language.
+</ul>
+
+**FunJavaStuff**
+
+<ul>
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java&titles=true)
+
+Code I wrote for fun in highschool, while learning Java (and programming in general as Java was my first language).
+</ul>
+
 
 ## **StockAnalyzer**
 
@@ -147,19 +165,19 @@ A project with the goal of modeling stock exchange tickers using machine learnin
 Still in early stages of development.
 
 <!-- TODO add work experience icons? -->
-<!-- ### **Other Work Experience**
+### **Other Work Experience**
 
 - BAE Systems Software Itnern 4 (Summer 2024)
 
-  ![](https://go-skill-icons.vercel.app/api/icons?i=python,pandas,matplotlib,numpy,c,cmake,powershell)
+  ![](https://go-skill-icons.vercel.app/api/icons?i=python,pandas,matplotlib,numpy,c,cmake,powershell,latex)  [<img src="https://avatars.githubusercontent.com/u/1300762?v=4" height="50px"/>](?)
 
 - BAE Systems Software Itnern 3 (Summer 2023)
   
-  ![](https://go-skill-icons.vercel.app/api/icons?i=bash,c,githubactions,gitlab,bitbucket,jenkins,java)
+  ![](https://go-skill-icons.vercel.app/api/icons?i=bash,c,githubactions,gitlab,bitbucket,jenkins,java,gitkraken)
 
 - BAE Systems Software Itnern 2 (Summer 2022)
   
-  ![](https://go-skill-icons.vercel.app/api/icons?i=cpp,java,python,linux,bash) [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYkbGAhmcYo1cCQtJvI94pA4_g_YW6EsVJ1OkIe8moeOCvD7rmAEMz05kVN6V1ZCa0dw&usqp=CAU" height="48px"/>](?) -->
+  ![](https://go-skill-icons.vercel.app/api/icons?i=cpp,java,python,linux,bash) [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYkbGAhmcYo1cCQtJvI94pA4_g_YW6EsVJ1OkIe8moeOCvD7rmAEMz05kVN6V1ZCa0dw&usqp=CAU" height="48px"/>](?)
 
 ## Future Projects and Ideas
 - **Algorithm Database**
@@ -205,3 +223,9 @@ Still in early stages of development.
   - Use neuralnets/transformers + reinforcement learning?
   - Potential difficulties
     - Measuring loss/distance from solved state (We know God's number is O(20) but a particular state will be difficult to evaluate)
+- **CARd Game**
+  - Different card types and rarities (collectable)
+  - Basically like a *Magic The Gathering* type game but where each car has a card
+  - For example an epic rarity card could be like a Ferrari 458 and a common could be a Honda Civic
+  - Different years and trims included on cards
+  - Descriptions and fun facts too perhaps
