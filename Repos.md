@@ -40,7 +40,7 @@ I made this for my girlfriend ❤️
 
 ### **CarStats**
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,selenium,yaml,regex&titles=true)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,selenium,yaml,regex,pandas&titles=true)
 
 A python code project that will (still under construction in my free time) web scrape car specifications from the awesome [www.caranddriver.com](https://caranddriver.com).
 
