@@ -1,4 +1,5 @@
-@nvcc Name.cu -o namecu.o --brief-diagnostics=true
+@matlab -batch "Name;"
+@nvcc Name.cu -o namecu.o > NUL
 @.\namecu.o
 @g++ Name.cpp -o namecpp.o
 @.\namecpp.o
@@ -12,3 +13,4 @@
 @python Name.py
 @julia Name.jl
 @go run Name.go
+@rscript Name.r
