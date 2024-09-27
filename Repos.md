@@ -40,9 +40,9 @@ I made this for my girlfriend ❤️
 
 ### **CarStats**
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,selenium,yaml,regex,pandas&titles=true)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,selenium,yaml,regex,pandas,matplotlib&titles=true)
 
-A python code project that will (still under construction in my free time) web scrape car specifications from the awesome [www.caranddriver.com](https://caranddriver.com).
+A python code project that will (still under construction in my free time) web scrape car specifications from the awesome [www.caranddriver.com](https://caranddriver.com) up to 2023/2024. After which data will be maintained manually.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=petermatts&theme=transparent&repo=CarStats)](https://github.com/petermatts/CarStats)
 
@@ -68,25 +68,6 @@ This repo aims to expirement with simulated Quantum Neural Networks (QNNs) using
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=petermatts&theme=transparent&repo=QNNs)](https://github.com/petermatts/QNNs)
 
-### **CodeFormatter**
-
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,ts,python,vscode&titles=true)
-
-A VS Code extension project that aims to support the development of clean well formatted code. More details coming soon/found in that repo when it becomes public.
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=petermatts&theme=transparent&repo=CodeFormatter)](https://github.com/petermatts/CodeFormatter)
-
-
-## Private Repos
-
-### **UMASS** and related repositories
-
-![](https://go-skill-icons.vercel.app/api/icons?i=java,c,python,pytorch,numpy,sklearn,scipy,matlab,latex,js,nodejs,html,css,asm)
-
-Repository to store all code homework/projects from my undergraduate courses at University of Massachusetts Amherst.
-
-This repository will remain private to the end of time as per univerity policy.
-
 ### **Learning**
 
 My general pupose self skill learning repository containing subprojects each aiming to develope a new skill with a tool/concept.
@@ -109,6 +90,16 @@ Following approximately the book [CUDA By Example](https://edoras.sdsu.edu/~mtho
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cmake,cpp&titles=true)
 
 In this subproject I am working with the CMake tool to develope my skill in CMake to apply it in a professional setting at work.
+
+</ul>
+
+**Docker**
+
+<ul>
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=docker&titles=true)
+
+In this subproject I am working with Docker. I have seen this tool used in industry and intend to learn it so I will be able to use it moving forward in a professional setting.
 
 </ul>
 
@@ -154,8 +145,27 @@ My code for toying around and using the GraphViz library and learning the dot la
 Code I wrote for fun in highschool, while learning Java (and programming in general as Java was my first language).
 </ul>
 
+### **CodeFormatter**
 
-**StockAnalyzer**
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,ts,python,vscode&titles=true)
+
+A VS Code extension project that aims to support the development of clean well formatted code. More details coming soon/found in that repo when it becomes public.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=petermatts&theme=transparent&repo=CodeFormatter)](https://github.com/petermatts/CodeFormatter)
+
+
+## Private Repos
+
+### **UMASS** and related repositories
+
+![](https://go-skill-icons.vercel.app/api/icons?i=java,c,python,pytorch,numpy,sklearn,scipy,matlab,latex,js,nodejs,html,css,asm)
+
+Repository to store all code homework/projects from my undergraduate courses at University of Massachusetts Amherst.
+
+This repository will remain private to the end of time as per univerity policy.
+
+
+### **StockAnalyzer**
 
 ![](https://go-skill-icons.vercel.app/api/icons?i=python,pytorch,numpy)
 
