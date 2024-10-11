@@ -133,11 +133,12 @@ Below is a list of languages, tools, and skills I have used. Hover the icons to 
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=terminal" alt="terminal" />](? "Batch")
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=md" alt="markdown" />](? "Markdown")
 
-More Languages that did not have icons in the API I used to make this.
+More Languages/Libraries that did not have icons in the API I used to make this.
 
 [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYkbGAhmcYo1cCQtJvI94pA4_g_YW6EsVJ1OkIe8moeOCvD7rmAEMz05kVN6V1ZCa0dw&usqp=CAU" height="40px"/>](? "SWIG")
 [<img src="https://technology.howard.edu/sites/technology.howard.edu/files/styles/large/public/mathematica-logo.png?itok=sZVilQp7" width="40px">](? "Mathmatica")
 [<img src="https://avatars.githubusercontent.com/u/1300762?v=4" height="40px"/>](? "Doxygen")
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Numba_logo.svg/512px-Numba_logo.svg.png" height="40px"/>](? "Numba")
 
 
 ### Libraries
@@ -149,12 +150,16 @@ More Languages that did not have icons in the API I used to make this.
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=scipy" alt="scipy" />](? "Scipy")
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=tensorflow" alt="tensorflow" />](? "Tensorflow")
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=regex" alt="regex" />](? "Regex")
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=huggingface" alt="huggingface" />](? "Hugging Face")
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=kaggle" alt="kaggle" />](? "Kaggle")
+
 
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas" alt="pandas" />](? "pandas")
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=selenium" alt="selenium" />](? "Selenium")
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs" alt="nodejs" />](? "NodeJS")
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=firebase" alt="firebase" />](? "Firebase")
-[<img src="https://go-skill-icons.vercel.app/api/icons?i=react" alt="react" />](? "React & React Native")
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=react" alt="react" />](? "React")
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=reactnative" alt="reactnative" />](? "React Native")
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=redux" alt="redux" />](? "Redux")
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=threejs" alt="threejs" />](? "ThreeJS")
 
@@ -167,6 +172,7 @@ More Languages that did not have icons in the API I used to make this.
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=githubactions" alt="githubactions" />](? "CI/CD")
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=jenkins" alt="jenkins" />](? "Jenkins")
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=cmake" alt="cmake" />](? "CMake")
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=jupyter" alt="jupyter" />](? "Jupyter Notebook")
 
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=jira" alt="jira" />](? "Jira")
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=vscode" alt="vscode" />](? "VSCode")
@@ -175,8 +181,7 @@ More Languages that did not have icons in the API I used to make this.
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=desmos" alt="desmos" />](? "Desmos")
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=androidstudio" alt="andriodstudio" />](? "Android Studio")
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=xcode" alt="xcode" />](? "XCode")
-
-<!-- [<img src="https://go-skill-icons.vercel.app/api/icons?i=docker" alt="docker" />](? "Docker") -->
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=docker" alt="docker" />](? "Docker")
 
 ### Other
 
@@ -186,9 +191,13 @@ More Languages that did not have icons in the API I used to make this.
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=powerpoint" alt="powerpoint" />](? "Microsoft Powerpoint")
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=teams" alt="teams" />](? "Microsoft Teams")
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=outlook" alt="outlook" />](? "Microsoft Outlook")
+
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=apple" alt="apple" />](? "MacOS")
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=linux" alt="linux" />](? "Linux")
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=windows" alt="windows" />](? "Windows")
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=wsl" alt="wsl" />](? "Windows Linux Subsystem")
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=virtualbox" alt="vbox" />](? "Virtual Box")
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=sharepoint" alt="sharepoint" />](? "Share Point")
 
 ### Profiles/Contact
 

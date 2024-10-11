@@ -158,7 +158,7 @@ A VS Code extension project that aims to support the development of clean well f
 
 ### **UMASS** and related repositories
 
-![](https://go-skill-icons.vercel.app/api/icons?i=java,c,python,pytorch,numpy,sklearn,scipy,matlab,latex,js,nodejs,html,css,asm)
+![](https://go-skill-icons.vercel.app/api/icons?i=java,c,python,pytorch,numpy,sklearn,scipy,matlab,latex,js,nodejs,html,css,asm,huggingface,kaggle,jupyter)
 
 Repository to store all code homework/projects from my undergraduate courses at University of Massachusetts Amherst.
 
