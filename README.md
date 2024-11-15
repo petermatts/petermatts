@@ -62,6 +62,25 @@ public static String username() {
 
 Main educational focus: Machine Learning and Artificial Intelligence
 
+### **Hobbies & Interests**
+
+- NFL Football
+- Cooking and Baking
+- F1
+- Cars
+- Rubik's cube speed solving
+- Other things I can't think of at the moment
+
+### **Fun Facts**
+
+- Did you know that on windows the keyboard short cut `ctrl+alt+shift+windows+L` automattically takes you to LinkedIn in your browser?
+
+- Did you know that Desmos uses Latex? So you can copy a raw Latex formula into desmos without needing to retype the whole thing.
+
+- Did you know that someone took the time and effort to create https://guthib.com incase you accidentally spell github incorrectly?
+
+- More coming soon
+
 <!-- Separate tables by math vs cs classes? -->
 
 <!-- ## **Important Courses**
@@ -206,16 +225,6 @@ More Languages/Libraries that did not have icons in the API I used to make this.
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=instagram" alt="python" />](https://www.instagram.com/pete.matt/ "pete.matt")
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=discord" alt="discord" />](? "petermatts")
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" alt="gmail" />](? "mpeters0514@gmail.com")
-
-## Fun Facts/More about me
-
-- Did you know that on windows the keyboard short cut `ctrl+alt+shift+windows+L` automattically takes you to LinkedIn in your browser?
-
-- Did you know that Desmos uses Latex? So you can copy a raw Latex formula into desmos without needing to retype the whole thing.
-
-- Did you know that someone took the time and effort to create https://guthib.com incase you accidentally spell github incorrectly?
-
-- More coming soon
 
 ## GitHub Data
 
