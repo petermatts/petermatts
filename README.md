@@ -74,11 +74,10 @@ Main educational focus: Machine Learning and Artificial Intelligence
 ### **Fun Facts**
 
 - Did you know that on windows the keyboard short cut `ctrl+alt+shift+windows+L` automattically takes you to LinkedIn in your browser?
-
 - Did you know that Desmos uses Latex? So you can copy a raw Latex formula into desmos without needing to retype the whole thing.
-
 - Did you know that someone took the time and effort to create https://guthib.com incase you accidentally spell github incorrectly?
-
+- If you change the `.docx`, `.pptx`, etc. file extension of a microsoft office file and rename the file extension to `.zip`, you can actually unzip the file into a bunch of `.xml` files. Essentially all Microsoft Office files are just `xml`.
+- Similarly, Jupyter Notebooks are just JSON under the hood.
 - More coming soon
 
 <!-- Separate tables by math vs cs classes? -->
@@ -158,6 +157,7 @@ More Languages/Libraries that did not have icons in the API I used to make this.
 [<img src="https://technology.howard.edu/sites/technology.howard.edu/files/styles/large/public/mathematica-logo.png?itok=sZVilQp7" width="40px">](? "Mathmatica")
 [<img src="https://avatars.githubusercontent.com/u/1300762?v=4" height="40px"/>](? "Doxygen")
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Numba_logo.svg/512px-Numba_logo.svg.png" height="40px"/>](? "Numba")
+[<img src="https://gymnasium.farama.org/_static/img/gymnasium_white.svg" height="40px"/>](? "Gymnasium")
 
 
 ### Libraries
