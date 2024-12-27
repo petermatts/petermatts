@@ -190,6 +190,9 @@ Still in early stages of development.
   ![](https://go-skill-icons.vercel.app/api/icons?i=cpp,java,python,linux,bash) [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYkbGAhmcYo1cCQtJvI94pA4_g_YW6EsVJ1OkIe8moeOCvD7rmAEMz05kVN6V1ZCa0dw&usqp=CAU" height="48px"/>](?) -->
 
 ## Future Projects and Ideas
+- **Personal Website**
+  - A website to display my portfolio of projects and work.
+  - A much better version of everything I am showing in my GitHub profile.
 - **Algorithm Database**
   - Library/documentation of all algorithms
   - https://en.wikipedia.org/wiki/List_of_algorithms
