@@ -78,6 +78,7 @@ Main educational focus: Machine Learning and Artificial Intelligence
 - Did you know that someone took the time and effort to create https://guthib.com incase you accidentally spell github incorrectly?
 - If you change the `.docx`, `.pptx`, etc. file extension of a microsoft office file and rename the file extension to `.zip`, you can actually unzip the file into a bunch of `.xml` files. Essentially all Microsoft Office files are just `xml`.
 - Similarly, Jupyter Notebooks are just JSON under the hood.
+- Ever wanted to use ChatGPT but as a cat? Check out [CatGPT](https://catgpt.wvd.io/)
 - More coming soon
 
 <!-- Separate tables by math vs cs classes? -->

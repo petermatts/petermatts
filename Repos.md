@@ -38,7 +38,8 @@ I made this for my girlfriend ❤️
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=petermatts&theme=transparent&repo=Heart)](https://github.com/petermatts/Heart)
 
-### **CarStats**
+### **CarStats** 
+(***Archived***)
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,selenium,yaml,regex,pandas,matplotlib&titles=true)
 
@@ -164,11 +165,15 @@ Repository to store all code homework/projects from my undergraduate courses at 
 
 This repository will remain private to the end of time as per univerity policy.
 
+### **CarSnap**
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nodejs,js,reactnative,html,css,virtualbox,xcode,python,huggingface&titles=true)
+
+Mobile app for car spotting, (likely personal project beginning work Summer 2025). Utilizing React Native, Databases, ML, etc. Details to come. Repo should be made public at somepoint.
 
 ### **StockAnalyzer**
 
 ![](https://go-skill-icons.vercel.app/api/icons?i=python,pytorch,numpy)
-
 
 A project with the goal of modeling stock exchange tickers using machine learning and fourier analysis (over both short and longterm). A few Ideas I have to further improve the performance/projections is to take into account recent event biases, perhaps by analyzing news articles that refer to a certain ticker or its market. These kinds of ML models (article analysis) do exist, I worked on one as part of a final project in my junoir year of my undergrad.
 
@@ -207,29 +212,20 @@ Still in early stages of development.
   - Develope an AI model that can derive new mathematical/computational proofs from known proven facts.
   - Utilize a 'tree-like' structure starting from base assumptions like the [Peano Axioms](https://en.wikipedia.org/wiki/Peano_axioms) and build from there.
   - Complication: I have no idea how to go about constructing a model for this, let alone how to gather the data.
-- **Runtime Analysis Parser**
-  - Parse through code and generate a runtime analysis in big-O notation
-  - Might be difficult but could be really cool
+  - Build off of some of the research papers that have explored this 
+    - [Proof Automation with Large Language Models](https://arxiv.org/pdf/2409.14274)
+    - [ProofNet](https://arxiv.org/pdf/2302.12433v1)
 - **Language Runtime Comparison**
   - Code up some cool algorithms (probably mathematical because math is cool, or even just a gigantic loop with simple operations) in a bunch of languages
   - Plot runtime comparison between languages
   - Presents me with a good opportunity to refresh/expand my prgoramming language knowledge
-  - Langs include but not limited to:
-    - Java
-    - C
-    - C++
-    - CUDA
-    - Python
-    - JavaScript
-    - Go
-    - Ruby
-    - More but I'm blanking right now
+  - Languagess include but not limited to: Java, C, C++, CUDA, Python, JavaScript, Go, Ruby, and more but I'm blanking right now
   - This will probably be not too difficult of a project to implements. It has been widely done before though...
-- **ML Audio Detection Counter**
+<!-- - **ML Audio Detection Counter**
   - count the "bwomps" (or other sound effects) in Spongebob
   - count the number of times Jeremy Clarkson says "Yeeeeees" or "Jaaaag"
   - etc.
-  - Issue is how to get the data...
+  - Issue is how to get the data... -->
 - **ML Rubik's Cube Solver**
   - See how well we can train a machine learning model to solve a Rubik's cube
   - Use the WCA scramble generator to generate scrambled cube states for training, validation, and testing
@@ -237,8 +233,12 @@ Still in early stages of development.
   - Potential difficulties
     - Measuring loss/distance from solved state (We know God's number is O(20) but a particular state will be difficult to evaluate)
 - **CARd Game**
+  - Similar to the CarSnap repo above, but like a card game?
   - Different card types and rarities (collectable)
   - Basically like a *Magic The Gathering* type game but where each car has a card
   - For example an epic rarity card could be like a Ferrari 458 and a common could be a Honda Civic
   - Different years and trims included on cards
   - Descriptions and fun facts too perhaps
+- **Car Consumer Notes**
+  - A redo of the CarStats repo above
+  - Should implement a better methodology of dataset creation - webscraping is inefficient/unreliable overtime with website changes, manual dataset curation is too tedious.
