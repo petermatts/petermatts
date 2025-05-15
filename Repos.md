@@ -177,7 +177,7 @@ Mobile app for car spotting, (likely personal project beginning work Summer 2025
 
 A project with the goal of modeling stock exchange tickers using machine learning and fourier analysis (over both short and longterm). A few Ideas I have to further improve the performance/projections is to take into account recent event biases, perhaps by analyzing news articles that refer to a certain ticker or its market. These kinds of ML models (article analysis) do exist, I worked on one as part of a final project in my junoir year of my undergrad.
 
-Still in early stages of development.
+Still in early stages of development. Probably won't get around to this for a while.
 
 <!-- ? uncomment work experience -->
 <!-- ## **Work Experience**
@@ -221,17 +221,17 @@ Still in early stages of development.
   - Presents me with a good opportunity to refresh/expand my prgoramming language knowledge
   - Languagess include but not limited to: Java, C, C++, CUDA, Python, JavaScript, Go, Ruby, and more but I'm blanking right now
   - This will probably be not too difficult of a project to implements. It has been widely done before though...
-<!-- - **ML Audio Detection Counter**
+- **ML Meme Audio Detection Counter**
   - count the "bwomps" (or other sound effects) in Spongebob
   - count the number of times Jeremy Clarkson says "Yeeeeees" or "Jaaaag"
   - etc.
-  - Issue is how to get the data... -->
+  - Issue is how to get the data...
 - **ML Rubik's Cube Solver**
   - See how well we can train a machine learning model to solve a Rubik's cube
   - Use the WCA scramble generator to generate scrambled cube states for training, validation, and testing
   - Use neuralnets/transformers + reinforcement learning?
   - Potential difficulties
-    - Measuring loss/distance from solved state (We know God's number is O(20) but a particular state will be difficult to evaluate)
+    - Measuring loss/distance from solved state (We know God's number is $O(20)$ but a particular state will be difficult to evaluate)
 - **CARd Game**
   - Similar to the CarSnap repo above, but like a card game?
   - Different card types and rarities (collectable)
@@ -242,3 +242,6 @@ Still in early stages of development.
 - **Car Consumer Notes**
   - A redo of the CarStats repo above
   - Should implement a better methodology of dataset creation - webscraping is inefficient/unreliable overtime with website changes, manual dataset curation is too tedious.
+- **Latex Auto Rename/Close Tag**
+  - Like the auto close/auto rename tag VSCode extensions for HTML and XML, but for the `\begin{}` and `\end{}` sequences in Latex
+  - Should be as easy as forking one of the existing extensions and altering it towards latex
