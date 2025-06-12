@@ -38,14 +38,11 @@ I made this for my girlfriend ❤️
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=petermatts&theme=transparent&repo=Heart)](https://github.com/petermatts/Heart)
 
-### **CarStats** 
-(***Archived***)
+### **CarSnap** and **CarSnap-AI**
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,selenium,yaml,regex,pandas,matplotlib&titles=true)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nodejs,js,reactnative,html,css,virtualbox,xcode,python,huggingface&titles=true)
 
-A python code project that will (still under construction in my free time) web scrape car specifications from the awesome [www.caranddriver.com](https://caranddriver.com) up to 2023/2024. After which data will be maintained manually.
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=petermatts&theme=transparent&repo=CarStats)](https://github.com/petermatts/CarStats)
+Mobile app for car spotting, (likely personal project beginning work Summer 2025). Utilizing React Native, Databases, ML, etc. Details to come.
 
 ### **LotterySim**
 
@@ -146,14 +143,14 @@ My code for toying around and using the GraphViz library and learning the dot la
 Code I wrote for fun in highschool, while learning Java (and programming in general as Java was my first language).
 </ul>
 
-### **CodeFormatter**
+### **CarStats** 
+(***Archived***)
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,ts,python,vscode&titles=true)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,selenium,yaml,regex,pandas,matplotlib&titles=true)
 
-A VS Code extension project that aims to support the development of clean well formatted code. More details coming soon/found in that repo when it becomes public.
+A python code project that will (still under construction in my free time) web scrape car specifications from the awesome [www.caranddriver.com](https://caranddriver.com) up to 2023/2024. After which data will be maintained manually.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=petermatts&theme=transparent&repo=CodeFormatter)](https://github.com/petermatts/CodeFormatter)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=petermatts&theme=transparent&repo=CarStats)](https://github.com/petermatts/CarStats)
 
 ## Private Repos
 
@@ -164,12 +161,6 @@ A VS Code extension project that aims to support the development of clean well f
 Repository to store all code homework/projects from my undergraduate courses at University of Massachusetts Amherst.
 
 This repository will remain private to the end of time as per univerity policy.
-
-### **CarSnap**
-
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nodejs,js,reactnative,html,css,virtualbox,xcode,python,huggingface&titles=true)
-
-Mobile app for car spotting, (likely personal project beginning work Summer 2025). Utilizing React Native, Databases, ML, etc. Details to come. Repo should be made public at somepoint.
 
 ### **StockAnalyzer**
 
@@ -198,6 +189,7 @@ Still in early stages of development. Probably won't get around to this for a wh
 - **Personal Website**
   - A website to display my portfolio of projects and work.
   - A much better version of everything I am showing in my GitHub profile.
+  - Buy some web domain that has my name in it?
 - **Algorithm Database**
   - Library/documentation of all algorithms
   - https://en.wikipedia.org/wiki/List_of_algorithms
