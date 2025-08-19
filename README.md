@@ -72,7 +72,6 @@ Main educational focus: Machine Learning and Artificial Intelligence
 - Other things I can't think of at the moment
 
 ### **Fun Facts**
-
 - Did you know that on windows the keyboard short cut `ctrl+alt+shift+windows+L` automattically takes you to LinkedIn in your browser?
 - Did you know that Desmos uses Latex? So you can copy a raw Latex formula into desmos without needing to retype the whole thing.
 - Did you know that someone took the time and effort to create https://guthib.com incase you accidentally spell github incorrectly?
@@ -80,41 +79,6 @@ Main educational focus: Machine Learning and Artificial Intelligence
 - Similarly, Jupyter Notebooks are just JSON under the hood.
 - Ever wanted to use ChatGPT but as a cat? Check out [CatGPT](https://catgpt.wvd.io/)
 - More coming soon
-
-<!-- Separate tables by math vs cs classes? -->
-
-<!-- ## **Important Courses**
-       
-| Completed                               | Upcoming Fall 2024                      |
-| --------------------------------------- | --------------------------------------- |
-| Introduction to Algorithms              | Quantum Information Systems (Grad)      |
-| Intro to Scientific Computing           | Reinforcement Learning                  |
-| Artificial Intelligence                 | Computer Vision                         |
-| Intro to Machine Learning               |                                         |
-| Machine Learning (Grad)                 |                                         |
-| Machine Learning (Ph.D)                 |                                         |
-| Reasoning Under Uncertainty             |                                         |
-| Computer Systems Principles             |                                         |
-| Applied Cryptography                    |                                         |
-| Formal Language Theory                  |                                         |
-| Intelligent Visual Computing            |                                         |
-| Intro to Simulation                     |                                         |
-| Quantum Information Systems (Undergrad) |                                         |
-
-
-### **Other cool/interseting courses**
-
-- Using Data Structures
-- Programming with Data Structures
-- Programming Methodology
-- Web Programming
-- Intro to Computation
-- Multivariable Calculus
-- Linear Algebra
-- Differential Equations
-- Statistics I
-- Intro to Abstract Algebra I
-- Intro to Computer Graphics -->
 
 ## **My Projects/Repositories**
 
@@ -131,12 +95,12 @@ Below is a list of languages, tools, and skills I have used. Hover the icons to 
 <!-- ![My Languages](https://go-skill-icons.vercel.app/api/icons?i=py,js,ts,c,cpp,java,matlab,julia,latex,md,bash,powershell,html,css,postgres,r,go,yaml&titles=true&perline=9) -->
 
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=py" alt="python" />](? "Python")
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=cpp" alt="c++" />](? "C++")
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=c" alt="c" />](? "C")
+[<img src="https://go-skill-icons.vercel.app/api/icons?i=matlab" alt="matlab" />](? "Matlab")
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=js" alt="js" />](? "Javascript")
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=ts" alt="ts" />](? "Typescript")
-[<img src="https://go-skill-icons.vercel.app/api/icons?i=c" alt="c" />](? "C")
-[<img src="https://go-skill-icons.vercel.app/api/icons?i=cpp" alt="c++" />](? "C++")
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=java" alt="java" />](? "Java")
-[<img src="https://go-skill-icons.vercel.app/api/icons?i=matlab" alt="matlab" />](? "Matlab")
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=cuda" alt="cuda" />](? "CUDA")
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=latex" alt="latex" />](? "Latex")
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=julia" alt="julia" />](? "Julia")
@@ -159,7 +123,7 @@ More Languages/Libraries that did not have icons in the API I used to make this.
 [<img src="https://avatars.githubusercontent.com/u/1300762?v=4" height="40px"/>](? "Doxygen")
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Numba_logo.svg/512px-Numba_logo.svg.png" height="40px"/>](? "Numba")
 [<img src="https://gymnasium.farama.org/_static/img/gymnasium_white.svg" height="40px"/>](? "Gymnasium")
-
+[<img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/48/GraphvizLogo.png/256px-GraphvizLogo.png" height="45px"/>](? "Graphviz")
 
 ### Libraries
 

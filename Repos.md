@@ -44,6 +44,25 @@ I made this for my girlfriend ❤️
 
 Mobile app for car spotting, (likely personal project beginning work Summer 2025). Utilizing React Native, Databases, ML, etc. Details to come.
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=petermatts&theme=transparent&repo=CarSnap)](https://github.com/petermatts/CarSnap)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=petermatts&theme=transparent&repo=CarSnap-AI)](https://github.com/petermatts/CarSnap-AI)
+
+### **Cubix**
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cpp,cmake,python&titles=true)
+
+C++ implementation of a Rubix cube. Compiled using CMake and wrapped using SWIG to generate a python module backed in C++ for fast search and AI algorithms to solve the cube.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=petermatts&theme=transparent&repo=Cubix)](https://github.com/petermatts/Cubix)
+
+<!-- - **ML Rubik's Cube Solver**
+  - See how well we can train a machine learning model to solve a Rubik's cube
+  - Use the WCA scramble generator to generate scrambled cube states for training, validation, and testing
+  - Use neuralnets/transformers + reinforcement learning?
+  - Potential difficulties
+    - Measuring loss/distance from solved state (We know God's number is $O(20)$ but a particular state will be difficult to evaluate) -->
+
 ### **LotterySim**
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,pytorch,numpy,scipy,java&titles=true)
@@ -72,76 +91,10 @@ My general pupose self skill learning repository containing subprojects each aim
 
 All subprojects were initially hosted each as their own git repository on my profile. However, for cleanliness of my github account I opted to combine all my self-taught learning skills projects into one repository, this one. :)
 
-**LearningCUDA**
-<ul>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cuda" alt="c++" />
 
-Toying with and learning NVIDIA Cuda library.
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,cuda,cmake,docker,java,solidity&titles=true)
 
-Following approximately the book [CUDA By Example](https://edoras.sdsu.edu/~mthomas/docs/cuda/cuda_by_example.book.pdf).
-</ul>
-
-**LearningCMake**
-
-<ul>
-
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cmake,cpp&titles=true)
-
-In this subproject I am working with the CMake tool to develope my skill in CMake to apply it in a professional setting at work.
-
-</ul>
-
-**Docker**
-
-<ul>
-
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=docker&titles=true)
-
-In this subproject I am working with Docker. I have seen this tool used in industry and intend to learn it so I will be able to use it moving forward in a professional setting.
-
-</ul>
-
-**LearningC-Cpp**
-<ul>
-
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,cpp&titles=true)
-
-My code taking the C/C++specialization on Coursera taught by Ira Pohl.
-
-</ul>
-
-**Crypto Research**
-
-<ul>
-
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,cpp,solidity&titles=true)
-
-Summer 2021 personal research project to expand my knowledge in computer science topics such as: cryptocurrencies, blockchains, cryptographic hashing, bitwise operations, and more. 
-
-There is a link to a breif google slides on what cryptocurrencies are, how they work, and their practicality of them being used as a medium of exchange moving forward, attached to the heading of this project section.
-
-In my learning I attempted implementing the beginings of code that would comprise a cryptocurrency. Including API usage and a coded version of the SHA-256 algorithm in both Java and C++. This can all be viewed in the repository below.
-
-View slide on research [Crypto Research](https://docs.google.com/presentation/d/1A-kybBkG2lw1iO6qyywTAImklQ_yI9XctO-q7yy05p0/edit?usp=sharing)
-</ul>
-
-**Graphviz**
-
-<ul>
-
-<!-- ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,cpp,solidity&titles=true) -->
-
-My code for toying around and using the GraphViz library and learning the dot language.
-</ul>
-
-**FunJavaStuff**
-
-<ul>
-
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java&titles=true)
-
-Code I wrote for fun in highschool, while learning Java (and programming in general as Java was my first language).
-</ul>
+<!-- View slide on research [Crypto Research](https://docs.google.com/presentation/d/1A-kybBkG2lw1iO6qyywTAImklQ_yI9XctO-q7yy05p0/edit?usp=sharing) -->
 
 ### **CarStats** 
 (***Archived***)
@@ -207,23 +160,17 @@ Still in early stages of development. Probably won't get around to this for a wh
   - Build off of some of the research papers that have explored this 
     - [Proof Automation with Large Language Models](https://arxiv.org/pdf/2409.14274)
     - [ProofNet](https://arxiv.org/pdf/2302.12433v1)
-- **Language Runtime Comparison**
+<!-- - **Language Runtime Comparison**
   - Code up some cool algorithms (probably mathematical because math is cool, or even just a gigantic loop with simple operations) in a bunch of languages
   - Plot runtime comparison between languages
   - Presents me with a good opportunity to refresh/expand my prgoramming language knowledge
   - Languagess include but not limited to: Java, C, C++, CUDA, Python, JavaScript, Go, Ruby, and more but I'm blanking right now
-  - This will probably be not too difficult of a project to implements. It has been widely done before though...
+  - This will probably be not too difficult of a project to implements. It has been widely done before though... -->
 - **ML Meme Audio Detection Counter**
   - count the "bwomps" (or other sound effects) in Spongebob
   - count the number of times Jeremy Clarkson says "Yeeeeees" or "Jaaaag"
   - etc.
   - Issue is how to get the data...
-- **ML Rubik's Cube Solver**
-  - See how well we can train a machine learning model to solve a Rubik's cube
-  - Use the WCA scramble generator to generate scrambled cube states for training, validation, and testing
-  - Use neuralnets/transformers + reinforcement learning?
-  - Potential difficulties
-    - Measuring loss/distance from solved state (We know God's number is $O(20)$ but a particular state will be difficult to evaluate)
 - **CARd Game**
   - Similar to the CarSnap repo above, but like a card game?
   - Different card types and rarities (collectable)
