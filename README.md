@@ -40,17 +40,10 @@ public static String username() {
 
 *example code for this process as a Java method*</details>
 
-<!-- <details><summary markdown="span"><u>Click here to show process in code form</u></summary>
-
-```Python
-    name = "Matthew Peters"
-    data = name.lower().split(" ")
-    github_username = data[1][:-1] + data[0][:4] + data[1][-1:]
-    print("Python:", github_username)
-```
-*example code for this process as a Java method*</details> -->
-
-<!-- --- -->
+1. [About Me](#about-me)
+2. [Repositories](#my-projectsrepositories)
+3. [Skills](#languages-tools-skills-and-more)
+4. [Github Stats](#github-data)
 
 ## About me
 

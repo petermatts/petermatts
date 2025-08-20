@@ -1,5 +1,9 @@
 # Summary Of Projects/Repos
 
+1. [Public Repos](#Public-Repos)
+2. [Private Repos](#Private-Repos)
+3. [Future Projects and Ideas](#Future-Projects-and-Ideas)
+
 ## Public Repos
 
 ### **petermatts** (This Repo)
