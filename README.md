@@ -40,14 +40,18 @@ public static String username() {
 
 *example code for this process as a Java method*</details>
 
-1. [About Me](#about-me)
-2. [Repositories](#my-projectsrepositories)
-3. [Skills](#languages-tools-skills-and-more)
-4. [Github Stats](#github-data)
+- [I'm @petermatts](#im-petermatts)
+  - [About me](#about-me)
+    - [Education](#education)
+    - [Hobbies \& Interests](#hobbies--interests)
+    - [Fun Facts](#fun-facts)
+  - [My Projects/Repositories](#my-projectsrepositories)
+  - [Profiles/Contact](#profilescontact)
+  - [GitHub Data](#github-data)
 
 ## About me
 
-### **Education**
+### Education
 
 - UMass Amherst 2025 M.S. in Computer Science
 - UMass Amherst 2024 B.S. in Computer Science and Mathematics
@@ -55,7 +59,7 @@ public static String username() {
 
 Main educational focus: Machine Learning and Artificial Intelligence
 
-### **Hobbies & Interests**
+### Hobbies & Interests
 
 - NFL Football
 - Cooking and Baking
@@ -64,7 +68,7 @@ Main educational focus: Machine Learning and Artificial Intelligence
 - Rubik's cube speed solving
 - Other things I can't think of at the moment
 
-### **Fun Facts**
+### Fun Facts
 - Did you know that on windows the keyboard short cut `ctrl+alt+shift+windows+L` automattically takes you to LinkedIn in your browser?
 - Did you know that Desmos uses Latex? So you can copy a raw Latex formula into desmos without needing to retype the whole thing.
 - Did you know that someone took the time and effort to create https://guthib.com incase you accidentally spell github incorrectly?
@@ -73,12 +77,12 @@ Main educational focus: Machine Learning and Artificial Intelligence
 - Ever wanted to use ChatGPT but as a cat? Check out [CatGPT](https://catgpt.wvd.io/)
 - More coming soon
 
-## **My Projects/Repositories**
+## My Projects/Repositories
 
 For much greater detail into my past and current projects (both public and private) as well as my future ideas, see [`Repos.md`](https://github.com/petermatts/petermatts/blob/main/Repos.md) for more information.
 
 
-<!-- ## **Languages, Tools, Skills, and More!** -->
+<!-- ## Languages, Tools, Skills, and More! -->
 <!-- Cool site for logos https://worldvectorlogo.com/ -->
 <!-- Icons from https://github.com/lelouchfr/skill-icons -->
 <!-- ![My Languages](https://go-skill-icons.vercel.app/api/icons?i=py,js,ts,c,cpp,java,matlab,julia,latex,md,bash,powershell,html,css,postgres,r,go,yaml&titles=true&perline=9) -->

@@ -35,8 +35,8 @@ jobs:
                   config_timezone: America/New_York
                   plugin_calendar: yes
                   plugin_calendar_limit: 0
-                  plugin_habits: yes
-                  plugin_habits_charts: yes
+                  plugin_habits: no
+                  plugin_habits_charts: no
                   plugin_habits_charts_type: classic
                   plugin_habits_days: 5000
                   plugin_habits_facts: no # change this if configrator website is back up and running
