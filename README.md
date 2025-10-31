@@ -77,15 +77,16 @@ Main educational focus: Machine Learning and Artificial Intelligence
 
 For much greater detail into my past and current projects (both public and private) as well as my future ideas, see [`Repos.md`](https://github.com/petermatts/petermatts/blob/main/Repos.md) for more information.
 
-## **Languages, Tools, Skills, and More!**
+
+<!-- ## **Languages, Tools, Skills, and More!** -->
 <!-- Cool site for logos https://worldvectorlogo.com/ -->
 <!-- Icons from https://github.com/lelouchfr/skill-icons -->
+<!-- ![My Languages](https://go-skill-icons.vercel.app/api/icons?i=py,js,ts,c,cpp,java,matlab,julia,latex,md,bash,powershell,html,css,postgres,r,go,yaml&titles=true&perline=9) -->
 
+<!--
 Below is a list of languages, tools, and skills I have used. Hover the icons to see the name if you are unfamiliar with the icon logo.
 
 ### Languages
-
-<!-- ![My Languages](https://go-skill-icons.vercel.app/api/icons?i=py,js,ts,c,cpp,java,matlab,julia,latex,md,bash,powershell,html,css,postgres,r,go,yaml&titles=true&perline=9) -->
 
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=py" alt="python" />](? "Python")
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=cpp" alt="c++" />](? "C++")
@@ -175,8 +176,9 @@ More Languages/Libraries that did not have icons in the API I used to make this.
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=wsl" alt="wsl" />](? "Windows Linux Subsystem")
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=virtualbox" alt="vbox" />](? "Virtual Box")
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=sharepoint" alt="sharepoint" />](? "Share Point")
+-->
 
-### Profiles/Contact
+## Profiles/Contact
 
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=github" alt="github" />](? "petermatts")
 [<img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" alt="linkedin" />](https://www.linkedin.com/in/matthew-s-peters/ "Matthew Peters")
